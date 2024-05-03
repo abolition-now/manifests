@@ -1,0 +1,857 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/collections/interviews-with-the-artists.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Interviews with the Artists"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Explore works with commentary from the artists"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_anotherworldispossible.json",
+      "label": {
+        "en": [
+          "Another World Is Possible"
+        ]
+      },
+      "type": "Manifest",
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_anotherworldispossible_oo.png/full/337,286/0/default.jpg",
+          "type": "Image",
+          "height": 286,
+          "width": 337,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_anotherworldispossible_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/another-world-is-possible",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Another World Is Possible"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_minneapolice.json",
+      "label": {
+        "en": [
+          "Minneapolice"
+        ]
+      },
+      "type": "Manifest",
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_minneapolice_oo.jpg/full/450,612/0/default.jpg",
+          "type": "Image",
+          "height": 612,
+          "width": 450,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_minneapolice_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/minneapolice",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Minneapolice"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_TrayvonMartin.json",
+      "label": {
+        "en": [
+          "Trayvon Martin - Black Mothers' Sons"
+        ]
+      },
+      "type": "Manifest",
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_trayvonmartin_oo.jpg/full/400,597/0/default.jpg",
+          "type": "Image",
+          "height": 597,
+          "width": 400,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0001_trayvonmartin_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/trayvon-martin-black-mothers-sons",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Trayvon Martin - Black Mothers' Sons"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0002_atimebeforepolice.json",
+      "label": {
+        "en": [
+          "There Was A Time Before Police And There Will Be A Time After"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/there-was-a-time-before-police-and-there-will-be-a-time-after",
+      "type": "Text",
+      "label": {
+        "en": [
+          "There Was A Time Before Police And There Will Be A Time After"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0002_atimebeforepolice_oo.jpg/full/274,274/0/default.jpg",
+          "type": "Image",
+          "height": 274,
+          "width": 274,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0002_atimebeforepolice_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_abolitionnow.json",
+      "label": {
+        "en": [
+          "Abolition Now"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/abolition-now",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Abolition Now"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_abolitionnow_oo.jpg/full/600,400/0/default.jpg",
+          "type": "Image",
+          "height": 400,
+          "width": 600,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_abolitionnow_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_defendourcommunities.json",
+      "label": {
+        "en": [
+          "Defend Our Communities, Defund Police"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/defend-our-communities-defund-police",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Defend Our Communities, Defund Police"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_defendourcommunities_oo.jpg/full/375,375/0/default.jpg",
+          "type": "Image",
+          "height": 375,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_defendourcommunities_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_hopeisadiscipline.json",
+      "label": {
+        "en": [
+          "Hope Is A Discipline"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/hope-is-a-discipline",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Hope Is A Discipline"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_hopeisadiscipline_oo.jpg/full/450,675/0/default.jpg",
+          "type": "Image",
+          "height": 675,
+          "width": 450,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_hopeisadiscipline_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_reparationsnow.json",
+      "label": {
+        "en": [
+          "Reparations Now, Reparations Won!"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/reparations-now-reparations-won",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Reparations Now, Reparations Won!"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_reparationsnow_oo.jpg/full/375,583/0/default.jpg",
+          "type": "Image",
+          "height": 583,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_reparationsnow_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_soundsofabolition.json",
+      "label": {
+        "en": [
+          "Sounds of Abolition"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/sounds-of-abolition",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Sounds of Abolition"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_soundsofabolition_oo.jpg/full/375,575/0/default.jpg",
+          "type": "Image",
+          "height": 575,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_soundsofabolition_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_wechargegenocide.json",
+      "label": {
+        "en": [
+          "We Charge Genocide"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/we-charge-genocide",
+      "type": "Text",
+      "label": {
+        "en": [
+          "We Charge Genocide"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_wechargegenocide_oo.png/full/490,367/0/default.jpg",
+          "type": "Image",
+          "height": 367,
+          "width": 490,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0004_wechargegenocide_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_0074_disabilityjustice.json",
+      "label": {
+        "en": [
+          "Disability Justice"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/disability-justice",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Disability Justice"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_0074_disabilityjustice_oo.png/full/500,370/0/default.jpg",
+          "type": "Image",
+          "height": 370,
+          "width": 500,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_0074_disabilityjustice_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_mariamekaba.json",
+      "label": {
+        "en": [
+          "Mariame Kaba"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/mariame-kaba",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Mariame Kaba"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_mariamekaba_oo.png/full/375,271/0/default.jpg",
+          "type": "Image",
+          "height": 271,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_mariamekaba_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_marshapjohnson.json",
+      "label": {
+        "en": [
+          "Marsh P. Johnson"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/marsh-p-johnson",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Marsh P. Johnson"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_marshapjohnson_oo.jpg/full/500,704/0/default.jpg",
+          "type": "Image",
+          "height": 704,
+          "width": 500,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_marshapjohnson_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_nooneentersviolence.json",
+      "label": {
+        "en": [
+          "No One Enters Violence"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/no-one-enters-violence",
+      "type": "Text",
+      "label": {
+        "en": [
+          "No One Enters Violence"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_nooneentersviolence_oo.jpg/full/270,337/0/default.jpg",
+          "type": "Image",
+          "height": 337,
+          "width": 270,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_nooneentersviolence_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_seemyneighbors.json",
+      "label": {
+        "en": [
+          "I See My Neighbors"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/i-see-my-neighbors",
+      "type": "Text",
+      "label": {
+        "en": [
+          "I See My Neighbors"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_seemyneighbors_oo.jpg/full/375,573/0/default.jpg",
+          "type": "Image",
+          "height": 573,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_seemyneighbors_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_southerntransresistance.json",
+      "label": {
+        "en": [
+          "Art of Trans Liberation"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/art-of-trans-liberation",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Art of Trans Liberation"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_southerntransresistance_oo.jpg/full/490,490/0/default.jpg",
+          "type": "Image",
+          "height": 490,
+          "width": 490,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0005_southerntransresistance_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible.json",
+      "label": {
+        "en": [
+          "Another World is Possible"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/another-world-is-possible-3",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Another World is Possible"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_oo.png/full/520,398/0/default.jpg",
+          "type": "Image",
+          "height": 398,
+          "width": 520,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_inourfreefuture.json",
+      "label": {
+        "en": [
+          "In Our Free Future"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/in-our-free-future",
+      "type": "Text",
+      "label": {
+        "en": [
+          "In Our Free Future"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_inourfreefuture_oo.jpg/full/625,417/0/default.jpg",
+          "type": "Image",
+          "height": 417,
+          "width": 625,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_inourfreefuture_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_pronk.json",
+      "label": {
+        "en": [
+          "Pronk"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/pronk",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Pronk"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_pronk_oo.jpg/full/421,527/0/default.jpg",
+          "type": "Image",
+          "height": 527,
+          "width": 421,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_pronk_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_weareuniversal.json",
+      "label": {
+        "en": [
+          "We Are Universal"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/we-are-universal",
+      "type": "Text",
+      "label": {
+        "en": [
+          "We Are Universal"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_weareuniversal_oo.jpg/full/760,506/0/default.jpg",
+          "type": "Image",
+          "height": 506,
+          "width": 760,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_weareuniversal_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety.json",
+      "label": {
+        "en": [
+          "We Find Safety"
+        ]
+      },
+      "type": "Manifest",
+      "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/we-find-safety",
+      "type": "Text",
+      "label": {
+        "en": [
+          "We Find Safety"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_wefindsafety_oo.jpg/full/479,479/0/default.jpg",
+          "type": "Image",
+          "height": 479,
+          "width": 479,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0063_wefindsafety_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
