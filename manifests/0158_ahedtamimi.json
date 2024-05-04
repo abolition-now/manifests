@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Ahed Tamimi "
     ]
   },
   "metadata": [
@@ -58,7 +58,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Napoli, Italy"
+              "Ahed Tamimi  -- Napoli, Italy"
             ]
           }
         },
@@ -74,11 +74,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/ahed-tamimi",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Ahed Tamimi "
         ]
       },
       "format": "text/html",

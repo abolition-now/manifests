@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Black Lives Matter"
     ]
   },
   "metadata": [
@@ -20,6 +20,18 @@
       "value": {
         "en": [
           "Death/Mourning"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "People"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Floyd"
         ]
       }
     },
@@ -82,7 +94,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Belfast, Northern Ireland"
+              "Black Lives Matter -- Belfast, Northern Ireland"
             ]
           }
         },
@@ -98,11 +110,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/black-lives-matter",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Black Lives Matter"
         ]
       },
       "format": "text/html",
@@ -132,6 +144,18 @@
           "value": {
             "en": [
               "Death/Mourning"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "People"
+            ]
+          },
+          "value": {
+            "en": [
+              "George Floyd"
             ]
           }
         },

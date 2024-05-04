@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Leila Khaled"
     ]
   },
   "metadata": [
@@ -63,11 +63,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/leila-khaled",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Leila Khaled"
         ]
       },
       "format": "text/html",

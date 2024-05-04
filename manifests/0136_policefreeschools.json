@@ -26,6 +26,18 @@
     {
       "label": {
         "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Abolition"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
           "Artist"
         ]
       },
@@ -85,6 +97,18 @@
           "value": {
             "en": [
               "Murals"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition"
             ]
           }
         }

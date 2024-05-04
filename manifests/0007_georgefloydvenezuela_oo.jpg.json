@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "George Floyd"
     ]
   },
   "metadata": [
@@ -75,11 +75,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/george-floyd",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "George Floyd"
         ]
       },
       "format": "text/html",

@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Lush"
     ]
   },
   "metadata": [
@@ -39,11 +39,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/lush",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Lush"
         ]
       },
       "format": "text/html",

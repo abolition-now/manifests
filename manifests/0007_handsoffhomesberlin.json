@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Hands Off Our Homes"
     ]
   },
   "metadata": [
@@ -20,6 +20,18 @@
       "value": {
         "en": [
           "Housing Justice"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Slogans"
+        ]
+      },
+      "value": {
+        "en": [
+          "ACAB"
         ]
       }
     },
@@ -70,7 +82,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Berlin, Germany"
+              "Hands Off Our Homes -- Berlin, Germany"
             ]
           }
         },
@@ -86,11 +98,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/hands-off-our-homes",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Hands Off Our Homes"
         ]
       },
       "format": "text/html",
@@ -120,6 +132,18 @@
           "value": {
             "en": [
               "Housing Justice"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Slogans"
+            ]
+          },
+          "value": {
+            "en": [
+              "ACAB"
             ]
           }
         },

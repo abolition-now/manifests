@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Kill Cops Not Trees"
     ]
   },
   "metadata": [
@@ -82,7 +82,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Los Angeles, California, USA"
+              "Kill Cops Not Trees -- Los Angeles, California, USA"
             ]
           }
         },
@@ -98,11 +98,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/kill-cops-not-trees",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Kill Cops Not Trees"
         ]
       },
       "format": "text/html",

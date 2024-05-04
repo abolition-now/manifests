@@ -1,0 +1,138 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Burn Jails Burn the Juvie!"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Prisons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Seattle and King County No Juvi No Jail!"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution and Use"
+      ]
+    },
+    "value": {
+      "en": [
+        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/burn-jails-burn-the-juvie",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Burn Jails Burn the Juvie!"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie_oo.jpeg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "height": 640,
+      "width": 640,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Prisons"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0258_burnjailsburnthejuvie_oo.jpeg/full/320,320/0/default.jpg",
+          "type": "Image",
+          "height": 320,
+          "width": 320,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0258_burnjailsburnthejuvie_oo.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie_oo.jpeg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie_oo.jpeg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0258_burnjailsburnthejuvie_oo.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 640,
+                "width": 640,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0258_burnjailsburnthejuvie_oo.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie_oo.jpeg/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

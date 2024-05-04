@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Solidarity with Taiwan "
     ]
   },
   "metadata": [
@@ -70,7 +70,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Corvallis, Oregon, USA"
+              "Solidarity with Taiwan  -- Corvallis, Oregon, USA"
             ]
           }
         },
@@ -86,11 +86,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/solidarity-with-taiwan",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Solidarity with Taiwan "
         ]
       },
       "format": "text/html",

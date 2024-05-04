@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Institutional Nightmare"
     ]
   },
   "metadata": [
@@ -51,11 +51,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/institutional-nightmare",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Institutional Nightmare"
         ]
       },
       "format": "text/html",

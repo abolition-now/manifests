@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Seen"
     ]
   },
   "metadata": [
@@ -71,7 +71,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Santiago, Chile"
+              "Seen -- Santiago, Chile"
             ]
           }
         },
@@ -87,11 +87,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/seen",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Seen"
         ]
       },
       "format": "text/html",

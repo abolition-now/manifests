@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "FTP"
     ]
   },
   "metadata": [
@@ -87,11 +87,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/ftp",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "FTP"
         ]
       },
       "format": "text/html",

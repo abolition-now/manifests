@@ -23,6 +23,19 @@
           "Prison + Neighborhood Arts Project (PNAP)"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Elders and Ancestors",
+          "Freedom"
+        ]
+      }
     }
   ],
   "requiredStatement": {
@@ -137,12 +150,13 @@
         {
           "label": {
             "en": [
-              "Missing metadata?"
+              "Subject"
             ]
           },
           "value": {
             "en": [
-              "Yes"
+              "Elders and Ancestors",
+              "Freedom"
             ]
           }
         }

@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "No to Racism"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "People"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Floyd"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -51,11 +63,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/no-to-racism",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "No to Racism"
         ]
       },
       "format": "text/html",
@@ -79,12 +91,12 @@
         {
           "label": {
             "en": [
-              "Missing metadata?"
+              "People"
             ]
           },
           "value": {
             "en": [
-              "Yes"
+              "George Floyd"
             ]
           }
         }
@@ -145,6 +157,18 @@
       "height": 1016,
       "width": 1536,
       "metadata": [
+        {
+          "label": {
+            "en": [
+              "People"
+            ]
+          },
+          "value": {
+            "en": [
+              "George Floyd"
+            ]
+          }
+        },
         {
           "label": {
             "en": [

@@ -313,6 +313,75 @@
           ]
         }
       ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Reuse"
+        ]
+      },
+      "height": 730,
+      "width": 730,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Worlding/Futures"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_ru.jpeg/full/365,365/0/default.jpg",
+          "type": "Image",
+          "height": 365,
+          "width": 365,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_ru.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_ru.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 730,
+                "width": 730,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0038_anotherworldispossible_ru.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Chalk and Charcoal in Gaza"
     ]
   },
   "metadata": [
@@ -70,7 +70,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Deir al-Balah, Gaza Strip, Palestine"
+              "Chalk and Charcoal in Gaza -- Deir al-Balah, Gaza Strip, Palestine"
             ]
           }
         },
@@ -86,11 +86,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/chalk-and-charcoal-in-gaza",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Chalk and Charcoal in Gaza"
         ]
       },
       "format": "text/html",

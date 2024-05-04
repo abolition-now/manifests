@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "No Human Being is Illegal"
     ]
   },
   "metadata": [
@@ -63,11 +63,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/no-human-being-is-illegal",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "No Human Being is Illegal"
         ]
       },
       "format": "text/html",

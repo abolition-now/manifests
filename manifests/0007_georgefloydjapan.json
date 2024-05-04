@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Woman Paints George Floyd "
     ]
   },
   "metadata": [
@@ -51,11 +51,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/woman-paints-george-floyd",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Woman Paints George Floyd "
         ]
       },
       "format": "text/html",

@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Viva La Rebelion"
     ]
   },
   "metadata": [
@@ -39,11 +39,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/viva-la-rebelion",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Viva La Rebelion"
         ]
       },
       "format": "text/html",

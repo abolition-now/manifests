@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Cop Car on Fire in Koszalin "
     ]
   },
   "metadata": [
@@ -82,7 +82,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Koszalin, Poland"
+              "Cop Car on Fire in Koszalin  -- Koszalin, Poland"
             ]
           }
         },
@@ -98,11 +98,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/cop-car-on-fire-in-koszalin",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Koszalin "
         ]
       },
       "format": "text/html",

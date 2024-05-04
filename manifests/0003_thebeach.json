@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Under the Burning Cop , the Beach"
+      "Under the Burning Cop Cars, the Beach"
     ]
   },
   "metadata": [
@@ -78,11 +78,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/under-the-burning-cop-the-beach",
+      "id": "https://abolition-now.github.io/an/works/under-the-burning-cop-cars-the-beach",
       "type": "Text",
       "label": {
         "en": [
-          "Under the Burning Cop , the Beach"
+          "Under the Burning Cop Cars, the Beach"
         ]
       },
       "format": "text/html",

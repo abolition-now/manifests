@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Rise Up"
     ]
   },
   "metadata": [
@@ -52,11 +52,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/rise-up",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Rise Up"
         ]
       },
       "format": "text/html",

@@ -26,6 +26,18 @@
     {
       "label": {
         "en": [
+          "People"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Floyd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
           "Geography"
         ]
       },
@@ -134,6 +146,18 @@
           "value": {
             "en": [
               "Death/Mourning"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "People"
+            ]
+          },
+          "value": {
+            "en": [
+              "George Floyd"
             ]
           }
         },

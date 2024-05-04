@@ -7,10 +7,22 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "You Changed the World, George"
     ]
   },
   "metadata": [
+    {
+      "label": {
+        "en": [
+          "People"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Floyd"
+        ]
+      }
+    },
     {
       "label": {
         "en": [
@@ -39,11 +51,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/you-changed-the-world-george",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "You Changed the World, George"
         ]
       },
       "format": "text/html",
@@ -67,12 +79,12 @@
         {
           "label": {
             "en": [
-              "Missing metadata?"
+              "People"
             ]
           },
           "value": {
             "en": [
-              "Yes"
+              "George Floyd"
             ]
           }
         }

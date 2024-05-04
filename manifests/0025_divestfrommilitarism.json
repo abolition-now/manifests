@@ -1,0 +1,138 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Divest From Militarism"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Slogans"
+        ]
+      },
+      "value": {
+        "en": [
+          "Defund"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Molly Costello"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution and Use"
+      ]
+    },
+    "value": {
+      "en": [
+        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/divest-from-militarism",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Divest From Militarism"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism_oo.jpeg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1796,
+      "width": 1440,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Slogans"
+            ]
+          },
+          "value": {
+            "en": [
+              "Defund"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0025_divestfrommilitarism_oo.jpeg/full/360,449/0/default.jpg",
+          "type": "Image",
+          "height": 449,
+          "width": 360,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0025_divestfrommilitarism_oo.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism_oo.jpeg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism_oo.jpeg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0025_divestfrommilitarism_oo.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1796,
+                "width": 1440,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0025_divestfrommilitarism_oo.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism_oo.jpeg/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

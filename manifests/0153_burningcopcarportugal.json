@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Burning Cop Car in Portugal"
     ]
   },
   "metadata": [
@@ -82,7 +82,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Lisbon, Portugal"
+              "Burning Cop Car in Portugal -- Lisbon, Portugal"
             ]
           }
         },
@@ -98,11 +98,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/burning-cop-car-in-portugal",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Burning Cop Car in Portugal"
         ]
       },
       "format": "text/html",

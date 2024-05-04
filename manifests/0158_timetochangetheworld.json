@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Time to Change the World"
     ]
   },
   "metadata": [
@@ -51,11 +51,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/time-to-change-the-world",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Time to Change the World"
         ]
       },
       "format": "text/html",

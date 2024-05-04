@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "Untitled"
+      "Cop Car on Fire in Buljarice"
     ]
   },
   "metadata": [
@@ -82,7 +82,7 @@
         "properties": {
           "label": {
             "en": [
-              "Untitled -- Buljarice, Montenegro"
+              "Cop Car on Fire in Buljarice -- Buljarice, Montenegro"
             ]
           }
         },
@@ -98,11 +98,11 @@
   },
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/untitled",
+      "id": "https://abolition-now.github.io/an/works/cop-car-on-fire-in-buljarice",
       "type": "Text",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Buljarice"
         ]
       },
       "format": "text/html",
