@@ -9,6 +9,33 @@
   },
   "items": [
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0256_nationsareconstructs.json",
+      "label": {
+        "en": [
+          "Nations Are Constructs"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_stopthegenocide.json",
+      "label": {
+        "en": [
+          "Stop the Genocide in Gaza Now!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_kickthemout.json",
+      "label": {
+        "en": [
+          "Kick Them Out"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0139_defundthepolice.json",
       "label": {
         "en": [
@@ -22,6 +49,24 @@
       "label": {
         "en": [
           "Another World Is Possible"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0235_sometimesiwonder.json",
+      "label": {
+        "en": [
+          "Innocent Windows"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0219_defendblacklife_oo.jpg.json",
+      "label": {
+        "en": [
+          "Defend Black Life"
         ]
       },
       "type": "Manifest"
@@ -48,7 +93,25 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0197_nocriminalization.json",
       "label": {
         "en": [
-          "Untitled"
+          "Stop Criminalization"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0221_elementsofcarceral_oo.jpg.json",
+      "label": {
+        "en": [
+          "Elements of Carceral Systems"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionnow.json",
+      "label": {
+        "en": [
+          "#AbolitionNow!"
         ]
       },
       "type": "Manifest"
@@ -67,6 +130,15 @@
       "label": {
         "en": [
           "Imagine a World"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0227_artandaction_oo.png.json",
+      "label": {
+        "en": [
+          "Art and Action for Abolition"
         ]
       },
       "type": "Manifest"
@@ -111,7 +183,16 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0170_tibettaiwansolidarity.json",
       "label": {
         "en": [
-          "Untitled"
+          "Solidarity with Taiwan "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionsocialwork.json",
+      "label": {
+        "en": [
+          "Abolitionist Social Work "
         ]
       },
       "type": "Manifest"
@@ -135,6 +216,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_coviddecarceration.json",
+      "label": {
+        "en": [
+          "Covid-19, Decarceration, & Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0243_stoppolicebrutality.json",
+      "label": {
+        "en": [
+          "Stop Police Brutality"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_quarantinepigs.json",
       "label": {
         "en": [
@@ -148,6 +247,42 @@
       "label": {
         "en": [
           "No One Enters Violence"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0224_robertbaileykpd_oo.jpg.json",
+      "label": {
+        "en": [
+          "Robert Bailey"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_policeoutofpride_oo.jpeg.json",
+      "label": {
+        "en": [
+          "Police out of Pride"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0184_nohumanbeingisillegal_oo.jpg.json",
+      "label": {
+        "en": [
+          "No Human Being is Illegal"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_imagine.json",
+      "label": {
+        "en": [
+          "Imagine..."
         ]
       },
       "type": "Manifest"
@@ -198,6 +333,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_guncontrolabolition.json",
+      "label": {
+        "en": [
+          "Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0250_0252.json",
+      "label": {
+        "en": [
+          "Transformative Justice"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0017_wemadethisworld.json",
       "label": {
         "en": [
@@ -229,6 +382,24 @@
       "label": {
         "en": [
           "Activist Hamida Barmaki Memorial Mural "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_nowalls.json",
+      "label": {
+        "en": [
+          "No Walls"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_defendtheneighborhood.json",
+      "label": {
+        "en": [
+          "Defend the Neighborhood"
         ]
       },
       "type": "Manifest"
@@ -279,6 +450,42 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_0218_turncopstofossils_oo.jpg.json",
+      "label": {
+        "en": [
+          "Turn the Cops to Fossils"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0260_stopcopcity.json",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_bluelivesmurdersydney_oo.jpg.json",
+      "label": {
+        "en": [
+          "Blue Lives Murder"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0242_toabolition.json",
+      "label": {
+        "en": [
+          "#8toAbolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0043_abolishthesystems.json",
       "label": {
         "en": [
@@ -309,7 +516,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_dayofrage.json",
       "label": {
         "en": [
-          "Untitled"
+          "Day of Rage"
         ]
       },
       "type": "Manifest"
@@ -354,7 +561,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0106_freeouryouth.json",
       "label": {
         "en": [
-          "Untitled"
+          "#FreeOurYouth"
         ]
       },
       "type": "Manifest"
@@ -363,7 +570,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_leilakhaledmural.json",
       "label": {
         "en": [
-          "Untitled"
+          "Leila Khaled"
         ]
       },
       "type": "Manifest"
@@ -387,10 +594,37 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_justicecallsforcopless_oo.png.json",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_globalprisonrebellions.json",
+      "label": {
+        "en": [
+          "Global Prison Rebellions & Racial Capitalism"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_transformativejustice.json",
       "label": {
         "en": [
           "Safety in Our Communities & Transformative Justice"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0226_letthisradicalizeyou_oo.jpg.json",
+      "label": {
+        "en": [
+          "Let This Radicalize You"
         ]
       },
       "type": "Manifest"
@@ -423,6 +657,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_firetotheprisons.json",
+      "label": {
+        "en": [
+          "Fire to the Prisons"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0094_protectsacredwaters.json",
       "label": {
         "en": [
@@ -435,7 +678,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_eyesmolotov.json",
       "label": {
         "en": [
-          "Untitled"
+          "Eyes of the Molotov Cocktail"
         ]
       },
       "type": "Manifest"
@@ -468,6 +711,42 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_onthisday.json",
+      "label": {
+        "en": [
+          "On This Day"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_ontheroadabolition.json",
+      "label": {
+        "en": [
+          "On the Road with Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0255_trapped.json",
+      "label": {
+        "en": [
+          "Trapped"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0244_handsoffourkids.json",
+      "label": {
+        "en": [
+          "Hands Off"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0086_someofus.json",
       "label": {
         "en": [
@@ -489,7 +768,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_killcopsnottrees.json",
       "label": {
         "en": [
-          "Untitled"
+          "Kill Cops Not Trees"
         ]
       },
       "type": "Manifest"
@@ -558,6 +837,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_covidmassincarceration.json",
+      "label": {
+        "en": [
+          "Covid-19 & the Fight Against Mass Incarceration"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0124_freeourpeople.json",
       "label": {
         "en": [
@@ -570,7 +858,16 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0003_thebeach.json",
       "label": {
         "en": [
-          "Under the Burning Cop , the Beach"
+          "Under the Burning Cop Cars, the Beach"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_defendeducationmural.json",
+      "label": {
+        "en": [
+          "Defend Public Education"
         ]
       },
       "type": "Manifest"
@@ -589,6 +886,15 @@
       "label": {
         "en": [
           "Rest in Power"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0264_homelessnotacrime.json",
+      "label": {
+        "en": [
+          "Being Homeless is Not a Crime"
         ]
       },
       "type": "Manifest"
@@ -648,10 +954,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionistsocialwork.json",
+      "label": {
+        "en": [
+          "Abolitionist Social Work"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_mariametaughtme.json",
       "label": {
         "en": [
           "Mariame Taught Me Postcards"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_burnjailsburnthejuvie.json",
+      "label": {
+        "en": [
+          "Burn Jails Burn the Juvie!"
         ]
       },
       "type": "Manifest"
@@ -714,7 +1038,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0204_carnames.json",
       "label": {
         "en": [
-          "Untitled"
+          "Sixteen Names"
         ]
       },
       "type": "Manifest"
@@ -723,7 +1047,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0154_ftp_oo.jpg.json",
       "label": {
         "en": [
-          "Untitled"
+          "FTP"
         ]
       },
       "type": "Manifest"
@@ -733,6 +1057,15 @@
       "label": {
         "en": [
           "All That is Solid Melts Into Air"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0121_0246_0247_peoplepower_oo.jpeg.json",
+      "label": {
+        "en": [
+          "Building People Power"
         ]
       },
       "type": "Manifest"
@@ -756,10 +1089,37 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0219_abetterworld_oo.jpg.json",
+      "label": {
+        "en": [
+          "A Better World Will Bloom without Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionistperspective.json",
+      "label": {
+        "en": [
+          "An Abolitionist Perspective on Movements for Black Liberation"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_brokenwindowcarfire.json",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Buljarice"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_steppingintoaccountability.json",
+      "label": {
+        "en": [
+          "Stepping into Our Accountability"
         ]
       },
       "type": "Manifest"
@@ -778,6 +1138,15 @@
       "label": {
         "en": [
           "Capitalism Destroys the World!!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_genderstructuresprison.json",
+      "label": {
+        "en": [
+          "How Gender Structures the Prison System"
         ]
       },
       "type": "Manifest"
@@ -867,7 +1236,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_prisonwalls.json",
       "label": {
         "en": [
-          "Prisons s Can't Stop Love"
+          "Prisons Can't Stop Love"
         ]
       },
       "type": "Manifest"
@@ -877,6 +1246,15 @@
       "label": {
         "en": [
           "Land Back for Turtle Island and Palestine"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0227_prisonabolitionnncollective.json",
+      "label": {
+        "en": [
+          "Prison Abolition Collective"
         ]
       },
       "type": "Manifest"
@@ -909,10 +1287,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0251_survivalastj.json",
+      "label": {
+        "en": [
+          "Survival as Transformative Justice"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_comedemocracia.json",
       "label": {
         "en": [
-          "Untitled"
+          "Come Democracia"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0121_breaksthechain_oo.jpeg.json",
+      "label": {
+        "en": [
+          "Breaks the Chains"
         ]
       },
       "type": "Manifest"
@@ -930,7 +1326,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_nohumanbeingisillegal.json",
       "label": {
         "en": [
-          "Untitled"
+          "No Human Being is Illegal"
         ]
       },
       "type": "Manifest"
@@ -972,10 +1368,19 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_treebustswall_oo.json",
+      "label": {
+        "en": [
+          "Stronger than Walls"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0165_georgefloydireland.json",
       "label": {
         "en": [
-          "Untitled"
+          "Black Lives Matter"
         ]
       },
       "type": "Manifest"
@@ -985,6 +1390,15 @@
       "label": {
         "en": [
           "Freedom Smells Like My Daughters"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_noyouthjail.json",
+      "label": {
+        "en": [
+          "No Youth Jail"
         ]
       },
       "type": "Manifest"
@@ -1026,6 +1440,51 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0041_stephanieandmajor_oo.json",
+      "label": {
+        "en": [
+          "Stephanie and Major"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_buildshowpower.json",
+      "label": {
+        "en": [
+          "Build Power Show Power"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0236_thestruggle.json",
+      "label": {
+        "en": [
+          "The Struggle"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0244_bossmakesadollar.json",
+      "label": {
+        "en": [
+          "Organize"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_angeladavisradicalroot_oo.jpg.json",
+      "label": {
+        "en": [
+          "Radical"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_ceasefire.json",
       "label": {
         "en": [
@@ -1048,6 +1507,15 @@
       "label": {
         "en": [
           "People and Planet"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0053_dismantleice_oo.json",
+      "label": {
+        "en": [
+          "Dismantle and Defund"
         ]
       },
       "type": "Manifest"
@@ -1101,7 +1569,25 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0157_acabcairo.json",
       "label": {
         "en": [
-          "Untitled"
+          "Combat"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0013_abolitionisalovelanguage_oo.jpg.json",
+      "label": {
+        "en": [
+          "Abolition is a Love Language"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0024_dumpprisonstock_oo.json",
+      "label": {
+        "en": [
+          "Dump the Prison Stock!"
         ]
       },
       "type": "Manifest"
@@ -1125,6 +1611,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_thestate.json",
+      "label": {
+        "en": [
+          "The \"State\""
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolishingfampolicing.json",
+      "label": {
+        "en": [
+          "Abolishing Family Policing"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0051_policevanonfire.json",
       "label": {
         "en": [
@@ -1138,6 +1642,24 @@
       "label": {
         "en": [
           "Backbend"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0241_donttalktothefbi.json",
+      "label": {
+        "en": [
+          "Don't Talk"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_nonewyouthjail.json",
+      "label": {
+        "en": [
+          "No New Youth Jail"
         ]
       },
       "type": "Manifest"
@@ -1170,6 +1692,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_sayhername.json",
+      "label": {
+        "en": [
+          "#SayHerName"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_socialworkersstoppolice.json",
+      "label": {
+        "en": [
+          "Social Workers Should Stop Policing!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0077_landyouhavetokillfor.json",
       "label": {
         "en": [
@@ -1179,10 +1719,19 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0261_letterwritingtodefenders.json",
+      "label": {
+        "en": [
+          "Letter Writing to Jailed Forest Defenders"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0154_lushbloodcop.json",
       "label": {
         "en": [
-          "Untitled"
+          "Lush"
         ]
       },
       "type": "Manifest"
@@ -1206,6 +1755,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_sayhernamebreonna.json",
+      "label": {
+        "en": [
+          "#SayHerName #BreonnaTaylor"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0208_housingnothandcuffs.json",
       "label": {
         "en": [
@@ -1215,10 +1773,19 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_reparations.json",
+      "label": {
+        "en": [
+          "Reparations Learning Community"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_georgefloydvenezuela_oo.jpg.json",
       "label": {
         "en": [
-          "Untitled"
+          "George Floyd"
         ]
       },
       "type": "Manifest"
@@ -1269,6 +1836,42 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0246_hope.json",
+      "label": {
+        "en": [
+          "Hope"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0250_letmebeclear.json",
+      "label": {
+        "en": [
+          "Let Me Be Clear"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_landback.json",
+      "label": {
+        "en": [
+          "Land Back/Reparations/Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0264_crimeexpressneed.json",
+      "label": {
+        "en": [
+          "Crime is an Expression of Unmet Need"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0138_georgefloydmemorialsitemural.json",
       "label": {
         "en": [
@@ -1282,6 +1885,15 @@
       "label": {
         "en": [
           "We Are Universal"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0261_stopcopcity.json",
+      "label": {
+        "en": [
+          "They Won't Stop at One"
         ]
       },
       "type": "Manifest"
@@ -1308,7 +1920,34 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_handsoffhomesberlin.json",
       "label": {
         "en": [
-          "Untitled"
+          "Hands Off Our Homes"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolishthepolice.json",
+      "label": {
+        "en": [
+          "Abolish the Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0245_tobeblunt.json",
+      "label": {
+        "en": [
+          "War on Drugs"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0078_destroyallpipelines_oo.jpeg.json",
+      "label": {
+        "en": [
+          "Destroy All the Pipelines"
         ]
       },
       "type": "Manifest"
@@ -1350,6 +1989,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0024_endprisonslavery.json",
+      "label": {
+        "en": [
+          "End Prison Slavery"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0111_revolutionisnotaonetimeevent.json",
       "label": {
         "en": [
@@ -1381,6 +2029,15 @@
       "label": {
         "en": [
           "Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0228_stonewallpoliceriot.json",
+      "label": {
+        "en": [
+          "Stonewall Was a Police Riot"
         ]
       },
       "type": "Manifest"
@@ -1443,7 +2100,16 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0073_0083_riseup.json",
       "label": {
         "en": [
-          "Untitled"
+          "Rise Up"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0244_stopcopcity.json",
+      "label": {
+        "en": [
+          "Stop Cop City"
         ]
       },
       "type": "Manifest"
@@ -1476,6 +2142,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_unlearnpunishment.json",
+      "label": {
+        "en": [
+          "Deprioritize Punishment"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0253_batjpodswebinar.json",
+      "label": {
+        "en": [
+          "Pods 101 "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0027_honkactiviststreetbands.json",
       "label": {
         "en": [
@@ -1503,10 +2187,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_djandabolition.json",
+      "label": {
+        "en": [
+          "Disability Justice & Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0132_blueformattar.json",
       "label": {
         "en": [
           "Blue for Mattar"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0236_abolition.json",
+      "label": {
+        "en": [
+          "Abolition"
         ]
       },
       "type": "Manifest"
@@ -1539,10 +2241,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0216_noletcherprisonhellbender_oo.jpg.json",
+      "label": {
+        "en": [
+          "Here's How"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0088_forourroots.json",
       "label": {
         "en": [
           "For Our Roots And Our Seeds"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_lapolicianonoscuida.json",
+      "label": {
+        "en": [
+          "Lo Policia No Nos Cuida Nos Mata "
         ]
       },
       "type": "Manifest"
@@ -1561,6 +2281,33 @@
       "label": {
         "en": [
           "Justice For Gaza"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0222_yourevotingonnativeland_oo.jpg.json",
+      "label": {
+        "en": [
+          "You're Voting on Native Land"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_burningcopcar.json",
+      "label": {
+        "en": [
+          "Abolish Milwaukee Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0221_fruitsoffreedom_oo.jpg.json",
+      "label": {
+        "en": [
+          "The Fruits of Freedom"
         ]
       },
       "type": "Manifest"
@@ -1656,6 +2403,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_asianblacklib.json",
+      "label": {
+        "en": [
+          "Asian American Call with Movement for Black Lives"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0073_liberationisnotwhite.json",
       "label": {
         "en": [
@@ -1669,6 +2425,15 @@
       "label": {
         "en": [
           "Daddy Changed the World"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0214_septimusapokaluptein_oo.jpg.json",
+      "label": {
+        "en": [
+          "Untitled"
         ]
       },
       "type": "Manifest"
@@ -1728,6 +2493,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_freecece.json",
+      "label": {
+        "en": [
+          "Fight Like Hell"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_abolitionnow.json",
       "label": {
         "en": [
@@ -1755,10 +2529,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_abolishprison.json",
+      "label": {
+        "en": [
+          "Abolish Prison"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0087_fromturtleisland.json",
       "label": {
         "en": [
           "From Turtle Island to Palestine"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_acabftp.json",
+      "label": {
+        "en": [
+          "ACAB/FTP"
         ]
       },
       "type": "Manifest"
@@ -1800,6 +2592,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_neighborhoodcopwatch.json",
+      "label": {
+        "en": [
+          "Neighborhood Cop Watch"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0180_bringlifetogether.json",
       "label": {
         "en": [
@@ -1831,6 +2632,15 @@
       "label": {
         "en": [
           "Say Their Names: Dontre Hamilton, Sandra Bland, Sylville Smith"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0216_pizzanotprisons_oo.jpg.json",
+      "label": {
+        "en": [
+          "Pizza Not Prisons"
         ]
       },
       "type": "Manifest"
@@ -1875,7 +2685,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0158_ahedtamimi.json",
       "label": {
         "en": [
-          "Untitled"
+          "Ahed Tamimi "
         ]
       },
       "type": "Manifest"
@@ -1884,7 +2694,25 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_sydneycopcarfiremidmural.json",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Sydney"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_harmreductionabolition.json",
+      "label": {
+        "en": [
+          "Harm Reduction, Abolition, & Social Work"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionfeminism.json",
+      "label": {
+        "en": [
+          "Abolition Feminism "
         ]
       },
       "type": "Manifest"
@@ -1938,7 +2766,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0072_institutionalnightmare.json",
       "label": {
         "en": [
-          "Untitled"
+          "Institutional Nightmare"
         ]
       },
       "type": "Manifest"
@@ -1998,6 +2826,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_defendpubliceducation.json",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_wekeepussafe.json",
+      "label": {
+        "en": [
+          "We Keep Us Safe"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0102_0104_freeourelders.json",
       "label": {
         "en": [
@@ -2011,6 +2857,51 @@
       "label": {
         "en": [
           "Walter Rodney"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionistorganizing.json",
+      "label": {
+        "en": [
+          "Abolitionist Organizing"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0224_anthonythompsonkpd_oo.jpg.json",
+      "label": {
+        "en": [
+          "Anthony Thompson, Jr. "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_fuckvpd_oo.jpg.json",
+      "label": {
+        "en": [
+          "Fuck VPD"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0262_stopcopcity.json",
+      "label": {
+        "en": [
+          "Stop Cop City!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_nojusticenopeace.json",
+      "label": {
+        "en": [
+          "Abolish Police"
         ]
       },
       "type": "Manifest"
@@ -2064,7 +2955,16 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_youchangedtheworld.json",
       "label": {
         "en": [
-          "Untitled"
+          "You Changed the World, George"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0220_stopgenocidecongo_oo.jpg.json",
+      "label": {
+        "en": [
+          "Stop the Genocide in Congo"
         ]
       },
       "type": "Manifest"
@@ -2082,7 +2982,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_georgefloydjapan.json",
       "label": {
         "en": [
-          "Untitled"
+          "Woman Paints George Floyd "
         ]
       },
       "type": "Manifest"
@@ -2124,6 +3024,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0223_fuckyourprofitssydney_oo.jpg.json",
+      "label": {
+        "en": [
+          "Fuck Your Profits"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0020_dumpsterfire.json",
       "label": {
         "en": [
@@ -2155,6 +3064,51 @@
       "label": {
         "en": [
           "Justice For All Indigenous Women"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_resist.json",
+      "label": {
+        "en": [
+          "Resist"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionwithchildren.json",
+      "label": {
+        "en": [
+          "In Our Own Hands"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0078_destroyallpipelines_oo1.jpeg.json",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0227_abolition_oo.jpg.json",
+      "label": {
+        "en": [
+          "Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_ftpnycpasteups_oo.jpg.json",
+      "label": {
+        "en": [
+          "FTP"
         ]
       },
       "type": "Manifest"
@@ -2196,6 +3150,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0078_elderssaynomvp_oo.jpg.json",
+      "label": {
+        "en": [
+          "Elders Say No MVP"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_firetotheprisons.json",
+      "label": {
+        "en": [
+          "Fire to the Prisons"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0140_womanwhofilmed.json",
       "label": {
         "en": [
@@ -2214,10 +3186,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_letyouthlead.json",
+      "label": {
+        "en": [
+          "Let the Youth Lead!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_repair.json",
       "label": {
         "en": [
           "Repair"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0217_kevinclarke_oo.jpg.json",
+      "label": {
+        "en": [
+          "Kevin Clarke"
         ]
       },
       "type": "Manifest"
@@ -2245,6 +3235,15 @@
       "label": {
         "en": [
           "Immigration is Beautiful"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_freedomdream.json",
+      "label": {
+        "en": [
+          "Freedom"
         ]
       },
       "type": "Manifest"
@@ -2295,6 +3294,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_whatisaccountability.json",
+      "label": {
+        "en": [
+          "What is Accountability?"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0022_0024_solidaritywithstandingrock.json",
       "label": {
         "en": [
@@ -2331,6 +3339,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0230_transstatepen.json",
+      "label": {
+        "en": [
+          "Trans State Pen"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0080_safecommunities.json",
       "label": {
         "en": [
@@ -2358,6 +3375,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_washingoneshands_oo.jpeg.json",
+      "label": {
+        "en": [
+          "Washing One's Hands"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_jailisunsafe.json",
+      "label": {
+        "en": [
+          "Santa Rita is Unsafe for Us All! "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0003_johnbrown.json",
       "label": {
         "en": [
@@ -2367,10 +3402,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_prisonbyanyothername.json",
+      "label": {
+        "en": [
+          "Prison By Any Other Name"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0089_waterismedicine.json",
       "label": {
         "en": [
           "Water is Medicine. Water is Not a Weapon [of State Violence]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_queerasinftp_oo.jpg.json",
+      "label": {
+        "en": [
+          "Queer as in FTP"
         ]
       },
       "type": "Manifest"
@@ -2406,7 +3459,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0153_burningcopcarportugal.json",
       "label": {
         "en": [
-          "Untitled"
+          "Burning Cop Car in Portugal"
         ]
       },
       "type": "Manifest"
@@ -2439,10 +3492,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_bookmobile.json",
+      "label": {
+        "en": [
+          "Book Mobile"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0120_harvestingthewisdom.json",
       "label": {
         "en": [
           "Harvesting the Wisdom of Our Ancestors"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_resiststaterepression.json",
+      "label": {
+        "en": [
+          "Resist State Repression"
         ]
       },
       "type": "Manifest"
@@ -2461,6 +3532,24 @@
       "label": {
         "en": [
           "Dismantle Prisons"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0249_wordsbreakdownwalls.json",
+      "label": {
+        "en": [
+          "Words Break Down Walls"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0232_tellgovno.json",
+      "label": {
+        "en": [
+          "No New Women's Prison!"
         ]
       },
       "type": "Manifest"
@@ -2505,7 +3594,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_policevanfirepoland.json",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Koszalin "
         ]
       },
       "type": "Manifest"
@@ -2547,10 +3636,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0240_aworldwithoutwalls.json",
+      "label": {
+        "en": [
+          "A World Without Walls"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_murderingflowersbaghdad_oo.jpg.json",
       "label": {
         "en": [
           "Murdering Flowers Will Not Delay a Spring "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_goalisdefund.json",
+      "label": {
+        "en": [
+          "The Goal is Still Defund the Police!!"
         ]
       },
       "type": "Manifest"
@@ -2574,10 +3681,46 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_stopcopcity.json",
+      "label": {
+        "en": [
+          "Stop Cop City"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0256_nooneisfree.json",
+      "label": {
+        "en": [
+          "No One is Free Until All Are Free"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_wechargegenocide.json",
       "label": {
         "en": [
           "We Charge Genocide"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_abolishpolice.json",
+      "label": {
+        "en": [
+          "Abolish Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_divestfrommilitarism.json",
+      "label": {
+        "en": [
+          "Divest From Militarism"
         ]
       },
       "type": "Manifest"
@@ -2610,10 +3753,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0236_inourownhands.json",
+      "label": {
+        "en": [
+          "In Our Own Hands"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0033_dreamingfreedombirdwire.json",
       "label": {
         "en": [
           "Birds Breaking Free"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0244_rallyforpalestine.json",
+      "label": {
+        "en": [
+          "Rally for Palestine"
         ]
       },
       "type": "Manifest"
@@ -2628,6 +3789,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0231_sayitloud.json",
+      "label": {
+        "en": [
+          "Say it LOUD, Say it CLEAR"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0073_notreexistence.json",
       "label": {
         "en": [
@@ -2637,10 +3807,37 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_disarmcopstucsonaz_oo.jpg.json",
+      "label": {
+        "en": [
+          "Arm Trans Women Disarm Cops"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_youthinpowernotprison_oo.jpg.json",
+      "label": {
+        "en": [
+          "Put Youth in Power Not Prison"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_policepigdonut.json",
       "label": {
         "en": [
           "Police Pig USA"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolishchildwelfaresystem.json",
+      "label": {
+        "en": [
+          "Abolishing the Child Welfare System "
         ]
       },
       "type": "Manifest"
@@ -2659,6 +3856,15 @@
       "label": {
         "en": [
           "George Floyd on Tattoo Parlor"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_sayitloudclear_oo.json",
+      "label": {
+        "en": [
+          "Say it LOUD, Say it CLEAR"
         ]
       },
       "type": "Manifest"
@@ -2745,10 +3951,46 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_endfamilysurveillance.json",
+      "label": {
+        "en": [
+          "Ending Family Surveillance"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_freethemall.json",
+      "label": {
+        "en": [
+          "#FreeThemAll!!!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_anewuprising.json",
+      "label": {
+        "en": [
+          "The Fire This Time"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0248_whatisrj.json",
+      "label": {
+        "en": [
+          "What is Restorative Justice?"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal.json",
       "label": {
         "en": [
-          "Untitled"
+          "Chalk and Charcoal in Gaza"
         ]
       },
       "type": "Manifest"
@@ -2763,10 +4005,46 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_talktoplantsnotcops.json",
+      "label": {
+        "en": [
+          "Talk to Plants Not Cops"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0263_stopcopcity.json",
+      "label": {
+        "en": [
+          "Stop Cop City"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionwithrob.json",
+      "label": {
+        "en": [
+          "Abolition 101"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_pronk.json",
       "label": {
         "en": [
           "Pronk"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_fightingback.json",
+      "label": {
+        "en": [
+          "Abolish Milwaukee Police"
         ]
       },
       "type": "Manifest"
@@ -2781,10 +4059,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0246_defendinglandandlife.json",
+      "label": {
+        "en": [
+          "Defending Land and Life"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wecreatepossibility.json",
       "label": {
         "en": [
           "We Create Possibility"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0115_practicingforaworld_oo.jpg.json",
+      "label": {
+        "en": [
+          "Practicing for an Abolitionist World"
         ]
       },
       "type": "Manifest"
@@ -2835,6 +4131,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_growplantsnotprisons_oo.jpg.json",
+      "label": {
+        "en": [
+          "Glow Plants Not Prisons"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_trumpetcaracab.json",
+      "label": {
+        "en": [
+          "ACAB"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_0074_disabilityjustice.json",
       "label": {
         "en": [
@@ -2862,6 +4176,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0255_breakout.json",
+      "label": {
+        "en": [
+          "Breakout"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_abolitiondemandsimagination_oo.jpg.json",
+      "label": {
+        "en": [
+          "Abolition Demands Imagination"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0048_wekeepussafe.json",
       "label": {
         "en": [
@@ -2875,6 +4207,15 @@
       "label": {
         "en": [
           "Un Monde Sans Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0239_themasterstools.json",
+      "label": {
+        "en": [
+          "Audre Lorde"
         ]
       },
       "type": "Manifest"
@@ -2898,6 +4239,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_resistancecontinues.json",
+      "label": {
+        "en": [
+          "Settler Colonialism & Indigenous Resistance"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copcarfirelyonfrance.json",
       "label": {
         "en": [
@@ -2911,6 +4261,15 @@
       "label": {
         "en": [
           "Turtle Island"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_nocopsallowed.json",
+      "label": {
+        "en": [
+          "No Cops Allowed!!"
         ]
       },
       "type": "Manifest"
@@ -2943,6 +4302,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0221_justicevspunishment_oo.jpg.json",
+      "label": {
+        "en": [
+          "Justice vs Punishment"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0164_saggingpants.json",
       "label": {
         "en": [
@@ -2961,6 +4329,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_freebresha.json",
+      "label": {
+        "en": [
+          "#FreeBresha"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0055_landback.json",
       "label": {
         "en": [
@@ -2973,7 +4350,25 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0209_vivalarebelion.json",
       "label": {
         "en": [
-          "Untitled"
+          "Viva La Rebelion"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_stopcopcity.json",
+      "label": {
+        "en": [
+          "Defend Atlanta Forest!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0225_abusingyourgfcopbehavior_oo.jpg.json",
+      "label": {
+        "en": [
+          "Abusing Your Girlfriend is Cop Behavior"
         ]
       },
       "type": "Manifest"
@@ -2997,10 +4392,46 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_djabolitionfukui.json",
+      "label": {
+        "en": [
+          "Disability Justice & Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_abolitionnow_oo.jpg.json",
+      "label": {
+        "en": [
+          "Abolition Now"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0227_ourvisionofaworld_oo.jpg.json",
+      "label": {
+        "en": [
+          "Our Vision of a World Without Prisons..."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0171_georgefloydsyria.json",
       "label": {
         "en": [
-          "Untitled"
+          "No to Racism"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0025_safetyorcontrol.json",
+      "label": {
+        "en": [
+          "Safety or Control"
         ]
       },
       "type": "Manifest"
@@ -3033,10 +4464,37 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0264_begaydocrimestonewall.json",
+      "label": {
+        "en": [
+          "Stonewall"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_budgetpriorities.json",
       "label": {
         "en": [
           "Budget Priorities"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0257_themailcrosses.json",
+      "label": {
+        "en": [
+          "The Mail Crosses Borders, Gates, & Walls"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_theheartofourcommunity.json",
+      "label": {
+        "en": [
+          "The Heart of Community"
         ]
       },
       "type": "Manifest"
@@ -3069,6 +4527,24 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0256_hurryitsthepigs.json",
+      "label": {
+        "en": [
+          "Hurry, It's the Pigs!"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0044_freethemall_oo.jpg.json",
+      "label": {
+        "en": [
+          "Free Them All"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0166_0167_0168_sayhername.json",
       "label": {
         "en": [
@@ -3082,6 +4558,15 @@
       "label": {
         "en": [
           "Southside"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_policebeat.json",
+      "label": {
+        "en": [
+          "Abolish Milwaukee Police"
         ]
       },
       "type": "Manifest"
@@ -3168,10 +4653,28 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_stopthewarmachine.json",
+      "label": {
+        "en": [
+          "Stop the War Machine"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0039_yourepartoftheworld.json",
       "label": {
         "en": [
           "You Are Part of the World"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_fromtherivertothesea_oo.jpg.json",
+      "label": {
+        "en": [
+          "From the River to the Sea "
         ]
       },
       "type": "Manifest"
@@ -3190,6 +4693,15 @@
       "label": {
         "en": [
           "No Justice No Peace Abolish Police, ACAB"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_asiansforabolition.json",
+      "label": {
+        "en": [
+          "#AsiansforAbolition"
         ]
       },
       "type": "Manifest"
@@ -3240,6 +4752,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_shelterisabasicrightvmelbourne_oo.jpg.json",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_reparationsnow.json",
       "label": {
         "en": [
@@ -3279,7 +4800,16 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0158_timetochangetheworld.json",
       "label": {
         "en": [
-          "Untitled"
+          "Time to Change the World"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0244_holdmybeer.json",
+      "label": {
+        "en": [
+          "Hold My Beer"
         ]
       },
       "type": "Manifest"
@@ -3289,6 +4819,15 @@
       "label": {
         "en": [
           "Another World is Possible"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0242_aworld.json",
+      "label": {
+        "en": [
+          "A World without Prisons or Police"
         ]
       },
       "type": "Manifest"
@@ -3342,7 +4881,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_burningcarenmore.json",
       "label": {
         "en": [
-          "Untitled"
+          "Cop Car on Fire in Sydney"
         ]
       },
       "type": "Manifest"
@@ -3352,6 +4891,15 @@
       "label": {
         "en": [
           "Lethal Aid"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_abolitionincanada.json",
+      "label": {
+        "en": [
+          "Police Abolition in Canada"
         ]
       },
       "type": "Manifest"
@@ -3384,6 +4932,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0229_mutualaid.json",
+      "label": {
+        "en": [
+          "All We Have is Each Other"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0185_dauntewrightbelovedmemorialmural_oo.jpg.json",
       "label": {
         "en": [
@@ -3406,6 +4963,15 @@
       "label": {
         "en": [
           "Burns Like Queer Rage"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_movementswork.json",
+      "label": {
+        "en": [
+          "Movements Work Within, Outside, & Beyond Prisons"
         ]
       },
       "type": "Manifest"
@@ -3438,6 +5004,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0114_decolonizationworldbuilding.json",
+      "label": {
+        "en": [
+          "Decolonization and World Building"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0087_anishinaabesolidarity.json",
       "label": {
         "en": [
@@ -3456,10 +5031,37 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0258_wecouldhavebuiltanything.json",
+      "label": {
+        "en": [
+          "We Could Have Built Anything"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_abolishthepolice.json",
       "label": {
         "en": [
           "Abolish the Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_blacktohongkong.json",
+      "label": {
+        "en": [
+          "Notes from Black Liberation to Hong Kong"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0238_abolishthepolice.json",
+      "label": {
+        "en": [
+          "Abolish "
         ]
       },
       "type": "Manifest"
@@ -3486,7 +5088,7 @@
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye.json",
       "label": {
         "en": [
-          "Untitled"
+          "Seen"
         ]
       },
       "type": "Manifest"
@@ -3496,6 +5098,24 @@
       "label": {
         "en": [
           "Hate Vic Police"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0254_anotherworldispossible.json",
+      "label": {
+        "en": [
+          "Another World is Possible"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0237_holdontohope.json",
+      "label": {
+        "en": [
+          "Hold on to Hope"
         ]
       },
       "type": "Manifest"
@@ -3523,6 +5143,15 @@
       "label": {
         "en": [
           "Untitled"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_fostercareabolition.json",
+      "label": {
+        "en": [
+          "Adoption & Foster Care Abolition"
         ]
       },
       "type": "Manifest"
@@ -3564,10 +5193,46 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0226_anewworld_oo.jpg.json",
+      "label": {
+        "en": [
+          "A New World in Our Hearts"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0201_0202_0203_georgefloydsunflower.json",
       "label": {
         "en": [
-          "Untitled"
+          "George Floyd Memorial Site"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0121_nonewjails_oo.json",
+      "label": {
+        "en": [
+          "No New Jails NYC"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0259_stopcopcity.json",
+      "label": {
+        "en": [
+          "Stop Cop City "
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_movingbeyondcarceral.json",
+      "label": {
+        "en": [
+          "Moving Beyond Carceral Approaches"
         ]
       },
       "type": "Manifest"
@@ -3609,6 +5274,15 @@
       "type": "Manifest"
     },
     {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0234_closeeverycage.json",
+      "label": {
+        "en": [
+          "Shut Down the King County Jail"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
       "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0089_nopipelinesonindigenousland.json",
       "label": {
         "en": [
@@ -3622,6 +5296,24 @@
       "label": {
         "en": [
           "Chopsticks in a Bundle Are Unbreakable"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_prisonabolitiontree_oo.json",
+      "label": {
+        "en": [
+          "Prison Abolition"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0233_pandemicportal.json",
+      "label": {
+        "en": [
+          "The Pandemic is a Portal"
         ]
       },
       "type": "Manifest"
