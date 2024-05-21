@@ -1,0 +1,264 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Arunachal Pradesh Police Welfare Society (APPWS), Itanagar India "
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution and Use"
+      ]
+    },
+    "value": {
+      "en": [
+        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 720,
+      "width": 960,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo/full/480,360/0/default.jpg",
+          "type": "Image",
+          "height": 360,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 720,
+                "width": 960,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo1/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 720,
+      "width": 960,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo1/full/480,360/0/default.jpg",
+          "type": "Image",
+          "height": 360,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo1",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo1/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo1/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 720,
+                "width": 960,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo1/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo2/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 720,
+      "width": 960,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo2/full/480,360/0/default.jpg",
+          "type": "Image",
+          "height": 360,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo2",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo2/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo2/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 720,
+                "width": 960,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0075_roleofpolice_oo2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0075_roleofpolice_oo2/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

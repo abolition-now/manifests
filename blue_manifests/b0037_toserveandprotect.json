@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0037_toserveandprotect.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -19,7 +19,7 @@
       },
       "value": {
         "en": [
-          "Boston Clutch Works, Boston's Finest, USA"
+          "Sterling Heights Police Station Michigan"
         ]
       }
     }
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest_oo/canvas/1",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0037_toserveandprotect_oo/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
           "Image "
         ]
       },
-      "height": 768,
-      "width": 1024,
+      "height": 400,
+      "width": 600,
       "metadata": [
         {
           "label": {
@@ -79,13 +79,13 @@
       ],
       "thumbnail": [
         {
-          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0010_bostonsfinest_oo/full/512,384/0/default.jpg",
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0037_toserveandprotect_oo/full/600,400/0/default.jpg",
           "type": "Image",
-          "height": 384,
-          "width": 512,
+          "height": 400,
+          "width": 600,
           "service": [
             {
-              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0010_bostonsfinest_oo",
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0037_toserveandprotect_oo",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -95,28 +95,28 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest_oo/canvas/1/annotation/1/page/1",
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0037_toserveandprotect_oo/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest_oo/canvas/1/annotation/1",
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0037_toserveandprotect_oo/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0010_bostonsfinest_oo/full/max/0/default.jpg",
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0037_toserveandprotect_oo/full/max/0/default.jpg",
                 "type": "Image",
-                "height": 768,
-                "width": 1024,
+                "height": 400,
+                "width": 600,
                 "service": [
                   {
-                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0010_bostonsfinest_oo",
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0037_toserveandprotect_oo",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest_oo/canvas/1"
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0037_toserveandprotect_oo/canvas/1"
             }
           ]
         }

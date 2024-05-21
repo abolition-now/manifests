@@ -7,7 +7,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "b0003_seoulsongpa_oo"
+      "Untitled"
     ]
   },
   "metadata": [
@@ -39,11 +39,11 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/b0003-seoulsongpa-oo",
+      "id": "https://abolition-now.github.io/an/works/untitled",
       "type": "Text",
       "label": {
         "en": [
-          "b0003_seoulsongpa_oo"
+          "Untitled"
         ]
       },
       "format": "text/html",
@@ -58,7 +58,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "Police"
+          "Image "
         ]
       },
       "height": 853,

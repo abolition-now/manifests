@@ -1,0 +1,333 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Nigeria Police Forcr Area A Headquarters, Lagos"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution and Use"
+      ]
+    },
+    "value": {
+      "en": [
+        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 528,
+      "width": 704,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo/full/352,264/0/default.jpg",
+          "type": "Image",
+          "height": 264,
+          "width": 352,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 528,
+                "width": 704,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo1/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 528,
+      "width": 704,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo1/full/352,264/0/default.jpg",
+          "type": "Image",
+          "height": 264,
+          "width": 352,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo1",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo1/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo1/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo1/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 528,
+                "width": 704,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo1/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo2/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 720,
+      "width": 1280,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo2/full/640,360/0/default.jpg",
+          "type": "Image",
+          "height": 360,
+          "width": 640,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo2",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo2/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo2/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo2/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 720,
+                "width": 1280,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo2/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo3/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Image "
+        ]
+      },
+      "height": 1536,
+      "width": 2048,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo3/full/512,384/0/default.jpg",
+          "type": "Image",
+          "height": 384,
+          "width": 512,
+          "service": [
+            {
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo3",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo3/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo3/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo3/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1536,
+                "width": 2048,
+                "service": [
+                  {
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0027_nigeriapeacepd_oo3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0027_nigeriapeacepd_oo3/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

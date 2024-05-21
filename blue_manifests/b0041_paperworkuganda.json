@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -19,7 +19,7 @@
       },
       "value": {
         "en": [
-          ""
+          "Ntinda Police Station Uganda"
         ]
       }
     }
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo1/canvas/1",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
           "Image "
         ]
       },
-      "height": 2268,
-      "width": 4032,
+      "height": 720,
+      "width": 960,
       "metadata": [
         {
           "label": {
@@ -79,13 +79,13 @@
       ],
       "thumbnail": [
         {
-          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo1/full/504,283/0/default.jpg",
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo/full/480,360/0/default.jpg",
           "type": "Image",
-          "height": 283,
-          "width": 504,
+          "height": 360,
+          "width": 480,
           "service": [
             {
-              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo1",
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -95,43 +95,43 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo1/canvas/1/annotation/1/page/1",
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo1/canvas/1/annotation/1",
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo1/full/max/0/default.jpg",
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo/full/max/0/default.jpg",
                 "type": "Image",
-                "height": 2268,
-                "width": 4032,
+                "height": 720,
+                "width": 960,
                 "service": [
                   {
-                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo1",
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo1/canvas/1"
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo2/canvas/1",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo1/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
           "Image "
         ]
       },
-      "height": 530,
-      "width": 706,
+      "height": 780,
+      "width": 1040,
       "metadata": [
         {
           "label": {
@@ -148,13 +148,13 @@
       ],
       "thumbnail": [
         {
-          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo2/full/353,265/0/default.jpg",
+          "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo1/full/520,390/0/default.jpg",
           "type": "Image",
-          "height": 265,
-          "width": 353,
+          "height": 390,
+          "width": 520,
           "service": [
             {
-              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo2",
+              "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo1",
               "type": "ImageService3",
               "profile": "level2"
             }
@@ -164,28 +164,28 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo2/canvas/1/annotation/1/page/1",
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo1/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo2/canvas/1/annotation/1",
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo1/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo2/full/max/0/default.jpg",
+                "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo1/full/max/0/default.jpg",
                 "type": "Image",
-                "height": 530,
-                "width": 706,
+                "height": 780,
+                "width": 1040,
                 "service": [
                   {
-                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0004_firstresponders_oo2",
+                    "id": "https://lwn43f42ify5kbpfnrb7oajdua0whnpu.lambda-url.us-east-2.on.aws/iiif/3/b0041_paperworkuganda_oo1",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders_oo2/canvas/1"
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0041_paperworkuganda_oo1/canvas/1"
             }
           ]
         }
