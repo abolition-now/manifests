@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -54,7 +54,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati_oo/canvas/1",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati_oo/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -95,11 +95,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati_oo/canvas/1/annotation/1/page/1",
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati_oo/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati_oo/canvas/1/annotation/1",
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati_oo/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -116,7 +116,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati_oo/canvas/1"
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati_oo/canvas/1"
             }
           ]
         }

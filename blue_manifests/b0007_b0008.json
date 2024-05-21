@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -55,7 +55,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008_bigbrothernypd_oo/canvas/1",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008_bigbrothernypd_oo/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -96,11 +96,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008_bigbrothernypd_oo/canvas/1/annotation/1/page/1",
+          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008_bigbrothernypd_oo/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008_bigbrothernypd_oo/canvas/1/annotation/1",
+              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008_bigbrothernypd_oo/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -117,7 +117,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008_bigbrothernypd_oo/canvas/1"
+              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008_bigbrothernypd_oo/canvas/1"
             }
           ]
         }

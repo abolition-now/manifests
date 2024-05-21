@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0010_bostonsfinest.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0010_bostonsfinest.json",
       "label": {
         "en": [
           "b0010_bostonsfinest_oo"
@@ -18,7 +18,7 @@
       "type": "Manifest"
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0004_firstresponders.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0004_firstresponders.json",
       "label": {
         "en": [
           "b0004firstresponders_oo"
@@ -27,7 +27,7 @@
       "type": "Manifest"
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0005_podoriandposuni.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0005_podoriandposuni.json",
       "label": {
         "en": [
           "b0005podoriandposuni_oo"
@@ -36,7 +36,7 @@
       "type": "Manifest"
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0003_seoulsongpa.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0003_seoulsongpa.json",
       "label": {
         "en": [
           "b0003_seoulsongpa_oo"
@@ -45,7 +45,7 @@
       "type": "Manifest"
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0011_hearusoutcincinnati.json",
       "label": {
         "en": [
           "b0011_hearusoutcincinnati_oo"
@@ -54,7 +54,7 @@
       "type": "Manifest"
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008.json",
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue_manifests/b0007_b0008.json",
       "label": {
         "en": [
           "b0007_b0008_bigbrothernypd_oo"
