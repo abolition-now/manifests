@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/collections/abolition-now.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Abolition Now!"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0010_bostonsfinest.json",
+      "label": {
+        "en": [
+          "b0010_bostonsfinest_oo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0004_firstresponders.json",
+      "label": {
+        "en": [
+          "b0004firstresponders_oo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0005_podoriandposuni.json",
+      "label": {
+        "en": [
+          "b0005podoriandposuni_oo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0003_seoulsongpa.json",
+      "label": {
+        "en": [
+          "b0003_seoulsongpa_oo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0011_hearusoutcincinnati.json",
+      "label": {
+        "en": [
+          "b0011_hearusoutcincinnati_oo"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/blue-manifests/b0007_b0008.json",
+      "label": {
+        "en": [
+          "b0007_b0008_bigbrothernypd_oo"
+        ]
+      },
+      "type": "Manifest"
+    }
+  ]
+}
