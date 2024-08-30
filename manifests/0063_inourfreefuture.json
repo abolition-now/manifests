@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture.json",
+  "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -79,7 +79,7 @@
   ],
   "items": [
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.jpg/canvas/1",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -145,11 +145,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.jpg/canvas/1/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -166,14 +166,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.jpg/canvas/1"
+              "target": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.mp4/canvas/2",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.mp4/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -239,11 +239,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.mp4/canvas/2/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.mp4/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.mp4/canvas/2/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.mp4/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -254,14 +254,14 @@
                 "duration": 336.13,
                 "format": "video/mp4"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_oo.mp4/canvas/2"
+              "target": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_oo.mp4/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru.jpg/canvas/3",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru.jpg/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -303,11 +303,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru.jpg/canvas/3/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru.jpg/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru.jpg/canvas/3/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru.jpg/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -324,14 +324,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru.jpg/canvas/3"
+              "target": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru.jpg/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru1.jpg/canvas/4",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru1.jpg/canvas/4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -372,11 +372,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru1.jpg/canvas/4/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru1.jpg/canvas/4/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru1.jpg/canvas/4/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru1.jpg/canvas/4/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -393,7 +393,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_inourfreefuture_ru1.jpg/canvas/4"
+              "target": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture_ru1.jpg/canvas/4"
             }
           ]
         }

@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal.json",
+  "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -41,7 +41,7 @@
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/notdereferenceable/feature/0",
+        "id": "https://abolition-now.github.io/manifests/manifests/notdereferenceable/feature/0",
         "type": "Feature",
         "properties": {
           "label": {
@@ -77,7 +77,7 @@
   ],
   "items": [
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1",
+      "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -118,11 +118,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -139,14 +139,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1"
+              "target": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2",
+      "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -187,11 +187,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -208,7 +208,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2"
+              "target": "https://abolition-now.github.io/manifests/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2"
             }
           ]
         }

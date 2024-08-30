@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo.jpg.json",
+  "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo.jpg.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -78,7 +78,7 @@
   ],
   "items": [
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo.jpg/canvas/1",
+      "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -143,11 +143,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo.jpg/canvas/1/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -164,14 +164,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo.jpg/canvas/1"
+              "target": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo1.jpg/canvas/2",
+      "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo1.jpg/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -236,11 +236,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo1.jpg/canvas/2/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo1.jpg/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo1.jpg/canvas/2/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo1.jpg/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -257,14 +257,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo1.jpg/canvas/2"
+              "target": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo1.jpg/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo2.jpg/canvas/3",
+      "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo2.jpg/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -329,11 +329,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo2.jpg/canvas/3/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo2.jpg/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo2.jpg/canvas/3/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo2.jpg/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -350,14 +350,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo2.jpg/canvas/3"
+              "target": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo2.jpg/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo3.jpg/canvas/4",
+      "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo3.jpg/canvas/4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -422,11 +422,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo3.jpg/canvas/4/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo3.jpg/canvas/4/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo3.jpg/canvas/4/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo3.jpg/canvas/4/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -443,7 +443,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0143_babywithahandgun_oo3.jpg/canvas/4"
+              "target": "https://abolition-now.github.io/manifests/manifests/0143_babywithahandgun_oo3.jpg/canvas/4"
             }
           ]
         }

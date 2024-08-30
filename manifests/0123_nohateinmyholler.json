@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler.json",
+  "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -42,7 +42,7 @@
   ],
   "items": [
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo.jpg/canvas/1",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -83,11 +83,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo.jpg/canvas/1/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -104,14 +104,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo.jpg/canvas/1"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo1.jpg/canvas/2",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo1.jpg/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -152,11 +152,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo1.jpg/canvas/2/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo1.jpg/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo1.jpg/canvas/2/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo1.jpg/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -173,14 +173,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_oo1.jpg/canvas/2"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_oo1.jpg/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru.png/canvas/3",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru.png/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -221,11 +221,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru.png/canvas/3/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru.png/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru.png/canvas/3/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru.png/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -242,14 +242,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru.png/canvas/3"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru.png/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru1.png/canvas/4",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru1.png/canvas/4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -290,11 +290,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru1.png/canvas/4/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru1.png/canvas/4/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru1.png/canvas/4/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru1.png/canvas/4/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -311,14 +311,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru1.png/canvas/4"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru1.png/canvas/4"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru10.png/canvas/5",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru10.png/canvas/5",
       "type": "Canvas",
       "label": {
         "en": [
@@ -359,11 +359,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru10.png/canvas/5/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru10.png/canvas/5/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru10.png/canvas/5/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru10.png/canvas/5/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -380,14 +380,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru10.png/canvas/5"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru10.png/canvas/5"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru2.jpg/canvas/6",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru2.jpg/canvas/6",
       "type": "Canvas",
       "label": {
         "en": [
@@ -428,11 +428,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru2.jpg/canvas/6/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru2.jpg/canvas/6/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru2.jpg/canvas/6/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru2.jpg/canvas/6/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -449,14 +449,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru2.jpg/canvas/6"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru2.jpg/canvas/6"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru3.png/canvas/7",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru3.png/canvas/7",
       "type": "Canvas",
       "label": {
         "en": [
@@ -497,11 +497,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru3.png/canvas/7/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru3.png/canvas/7/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru3.png/canvas/7/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru3.png/canvas/7/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -518,14 +518,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru3.png/canvas/7"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru3.png/canvas/7"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru5.png/canvas/8",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru5.png/canvas/8",
       "type": "Canvas",
       "label": {
         "en": [
@@ -566,11 +566,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru5.png/canvas/8/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru5.png/canvas/8/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru5.png/canvas/8/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru5.png/canvas/8/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -587,14 +587,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru5.png/canvas/8"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru5.png/canvas/8"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru6.jpg/canvas/9",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru6.jpg/canvas/9",
       "type": "Canvas",
       "label": {
         "en": [
@@ -635,11 +635,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru6.jpg/canvas/9/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru6.jpg/canvas/9/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru6.jpg/canvas/9/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru6.jpg/canvas/9/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -656,14 +656,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru6.jpg/canvas/9"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru6.jpg/canvas/9"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru7.jpg/canvas/10",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru7.jpg/canvas/10",
       "type": "Canvas",
       "label": {
         "en": [
@@ -704,11 +704,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru7.jpg/canvas/10/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru7.jpg/canvas/10/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru7.jpg/canvas/10/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru7.jpg/canvas/10/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -725,14 +725,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru7.jpg/canvas/10"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru7.jpg/canvas/10"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru8.png/canvas/11",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru8.png/canvas/11",
       "type": "Canvas",
       "label": {
         "en": [
@@ -773,11 +773,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru8.png/canvas/11/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru8.png/canvas/11/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru8.png/canvas/11/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru8.png/canvas/11/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -794,14 +794,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru8.png/canvas/11"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru8.png/canvas/11"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru9.png/canvas/12",
+      "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru9.png/canvas/12",
       "type": "Canvas",
       "label": {
         "en": [
@@ -842,11 +842,11 @@
       ],
       "items": [
         {
-          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru9.png/canvas/12/annotation/1/page/1",
+          "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru9.png/canvas/12/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru9.png/canvas/12/annotation/1",
+              "id": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru9.png/canvas/12/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -863,7 +863,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0123_nohateinmyholler_ru9.png/canvas/12"
+              "target": "https://abolition-now.github.io/manifests/manifests/0123_nohateinmyholler_ru9.png/canvas/12"
             }
           ]
         }
