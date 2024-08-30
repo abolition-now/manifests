@@ -1,0 +1,183 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ed Mead"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-oo.jpg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 2315,
+      "width": 1500,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-oo.jpg/full/375,578/0/default.jpg",
+          "type": "Image",
+          "height": 578,
+          "width": 375,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-oo.jpg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-oo.jpg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-oo.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 2315,
+                "width": 1500,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-oo.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-oo.jpg/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-ru.png/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Reuse"
+        ]
+      },
+      "height": 1434,
+      "width": 1278,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-ru.png/full/319,358/0/default.jpg",
+          "type": "Image",
+          "height": 358,
+          "width": 319,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-ru.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-ru.png/canvas/2/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-ru.png/canvas/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-ru.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1434,
+                "width": 1278,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0290_menagainstsexism-ru.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0290_menagainstsexism-ru.png/canvas/2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

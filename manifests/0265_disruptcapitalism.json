@@ -1,0 +1,252 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Disrupt Capitalism"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "KRIME"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/disrupt-capitalism",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Disrupt Capitalism"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo.jpeg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1440,
+      "width": 1440,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo.jpeg/full/360,360/0/default.jpg",
+          "type": "Image",
+          "height": 360,
+          "width": 360,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo.jpeg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo.jpeg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1440,
+                "width": 1440,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo.jpeg/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo1.jpeg/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1334,
+      "width": 1334,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo1.jpeg/full/333,333/0/default.jpg",
+          "type": "Image",
+          "height": 333,
+          "width": 333,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo1.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo1.jpeg/canvas/2/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo1.jpeg/canvas/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo1.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1334,
+                "width": 1334,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo1.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo1.jpeg/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo2.png/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1532,
+      "width": 2370,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo2.png/full/592,383/0/default.jpg",
+          "type": "Image",
+          "height": 383,
+          "width": 592,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo2.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo2.png/canvas/3/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo2.png/canvas/3/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo2.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1532,
+                "width": 2370,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0265_disruptcapitalism_oo2.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0265_disruptcapitalism_oo2.png/canvas/3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Oree"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo.jpeg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1400,
+      "width": 1400,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo.jpeg/full/350,350/0/default.jpg",
+          "type": "Image",
+          "height": 350,
+          "width": 350,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo.jpeg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo.jpeg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo.jpeg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1400,
+                "width": 1400,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo.jpeg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo.jpeg/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo1.png/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1398,
+      "width": 2384,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo1.png/full/596,349/0/default.jpg",
+          "type": "Image",
+          "height": 349,
+          "width": 596,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo1.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo1.png/canvas/2/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo1.png/canvas/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1398,
+                "width": 2384,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_oo1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_oo1.png/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_ru.png/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1372,
+      "width": 2350,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Missing metadata?"
+            ]
+          },
+          "value": {
+            "en": [
+              "Yes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_ru.png/full/587,343/0/default.jpg",
+          "type": "Image",
+          "height": 343,
+          "width": 587,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_ru.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_ru.png/canvas/3/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_ru.png/canvas/3/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_ru.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1372,
+                "width": 2350,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0280_stopcopcity_ru.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0280_stopcopcity_ru.png/canvas/3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

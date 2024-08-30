@@ -1,0 +1,162 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0226_movementsloganspack_oo.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Movements Slogan Pack"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Education",
+          "Borders/Immigration",
+          "Rage",
+          "Anti-Capitalism",
+          "Worlding/Futures",
+          "Solidarity"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Fire",
+          "Birds"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Amanda Priebe "
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/movements-slogan-pack",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Movements Slogan Pack"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0226_movementsloganspack_oo.png/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Orginal Image"
+        ]
+      },
+      "height": 804,
+      "width": 681,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Education",
+              "Borders/Immigration",
+              "Rage",
+              "Anti-Capitalism",
+              "Worlding/Futures",
+              "Solidarity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Fire",
+              "Birds"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0226_movementsloganspack_oo.png/full/340,402/0/default.jpg",
+          "type": "Image",
+          "height": 402,
+          "width": 340,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0226_movementsloganspack_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0226_movementsloganspack_oo.png/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0226_movementsloganspack_oo.png/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0226_movementsloganspack_oo.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 804,
+                "width": 681,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0226_movementsloganspack_oo.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0226_movementsloganspack_oo.png/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

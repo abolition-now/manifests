@@ -1,0 +1,149 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0172_solidarityknows.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Solidarity Knows No Borders"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Geography"
+        ]
+      },
+      "value": {
+        "en": [
+          "London, United Kingdom"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Dukz"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "navPlace": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Solidarity Knows No Borders -- London, United Kingdom"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.12084971308707894,
+            51.47796190804837
+          ]
+        }
+      }
+    ]
+  },
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/solidarity-knows-no-borders",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Solidarity Knows No Borders"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0172_solidarityknows_oo.jpg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 248,
+      "width": 900,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Geography"
+            ]
+          },
+          "value": {
+            "en": [
+              "London, United Kingdom"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0172_solidarityknows_oo.jpg/full/450,124/0/default.jpg",
+          "type": "Image",
+          "height": 124,
+          "width": 450,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0172_solidarityknows_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0172_solidarityknows_oo.jpg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0172_solidarityknows_oo.jpg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0172_solidarityknows_oo.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 248,
+                "width": 900,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0172_solidarityknows_oo.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0172_solidarityknows_oo.jpg/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

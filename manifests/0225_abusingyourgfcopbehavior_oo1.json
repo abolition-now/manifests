@@ -1,0 +1,128 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0225_abusingyourgfcopbehavior_oo1.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Police",
+          "Violence"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "FEMINIST COLLAGES NYC"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0225_abusingyourgfcopbehavior_oo1.png/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Orginal Image"
+        ]
+      },
+      "height": 880,
+      "width": 1626,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Police",
+              "Violence"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0225_abusingyourgfcopbehavior_oo1.png/full/813,440/0/default.jpg",
+          "type": "Image",
+          "height": 440,
+          "width": 813,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0225_abusingyourgfcopbehavior_oo1.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0225_abusingyourgfcopbehavior_oo1.png/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0225_abusingyourgfcopbehavior_oo1.png/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0225_abusingyourgfcopbehavior_oo1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 880,
+                "width": 1626,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0225_abusingyourgfcopbehavior_oo1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0225_abusingyourgfcopbehavior_oo1.png/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

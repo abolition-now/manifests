@@ -1,0 +1,154 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0221_justicevspunishment_ru1.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Punishment",
+          "Transformative Justice",
+          "Violence"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Butterflies"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Kai Cheng Thom"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0221_justicevspunishment_ru1.png/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Reuse"
+        ]
+      },
+      "height": 742,
+      "width": 1168,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Punishment",
+              "Transformative Justice",
+              "Violence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Butterflies"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0221_justicevspunishment_ru1.png/full/584,371/0/default.jpg",
+          "type": "Image",
+          "height": 371,
+          "width": 584,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0221_justicevspunishment_ru1.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0221_justicevspunishment_ru1.png/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0221_justicevspunishment_ru1.png/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0221_justicevspunishment_ru1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 742,
+                "width": 1168,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0221_justicevspunishment_ru1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0221_justicevspunishment_ru1.png/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

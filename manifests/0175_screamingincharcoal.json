@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -34,38 +34,14 @@
           "Menna Hamouda"
         ]
       }
-    },
-    {
-      "label": {
-        "en": [
-          "Photographer"
-        ]
-      },
-      "value": {
-        "en": [
-          "Mohammed Talatene"
-        ]
-      }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/notdereferenceable/feature/0",
+        "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/notdereferenceable/feature/0",
         "type": "Feature",
         "properties": {
           "label": {
@@ -77,8 +53,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            34.3333,
-            31.4167
+            34.35128688703991,
+            31.415369393408955
           ]
         }
       }
@@ -101,7 +77,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo.jpg/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -142,11 +118,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -163,14 +139,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo.jpg/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -189,18 +165,6 @@
           "value": {
             "en": [
               "Deir al-Balah, Gaza Strip, Palestine"
-            ]
-          }
-        },
-        {
-          "label": {
-            "en": [
-              "Photographer"
-            ]
-          },
-          "value": {
-            "en": [
-              "Mohammed Talatene"
             ]
           }
         }
@@ -223,11 +187,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -244,7 +208,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0175_screamingincharcoal_oo1.jpg/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0175_screamingincharcoal_oo1.jpg/canvas/2"
             }
           ]
         }

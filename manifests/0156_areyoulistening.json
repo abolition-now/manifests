@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -26,18 +26,6 @@
     {
       "label": {
         "en": [
-          "Photographer"
-        ]
-      },
-      "value": {
-        "en": [
-          "Jake Crandall"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
           "Artist"
         ]
       },
@@ -48,24 +36,12 @@
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
     "features": [
       {
-        "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/notdereferenceable/feature/0",
+        "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/notdereferenceable/feature/0",
         "type": "Feature",
         "properties": {
           "label": {
@@ -77,8 +53,8 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -86.3077,
-            32.3792
+            -86.29211429983378,
+            32.37068294257147
           ]
         }
       }
@@ -101,7 +77,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo2.jpg/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo2.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -114,12 +90,12 @@
         {
           "label": {
             "en": [
-              "Photographer"
+              "Missing metadata?"
             ]
           },
           "value": {
             "en": [
-              "Jake Crandall"
+              "Yes"
             ]
           }
         }
@@ -142,11 +118,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo2.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo2.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo2.jpg/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo2.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -163,14 +139,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo2.jpg/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo2.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo1.jpg/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo1.jpg/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -183,12 +159,12 @@
         {
           "label": {
             "en": [
-              "Photographer"
+              "Missing metadata?"
             ]
           },
           "value": {
             "en": [
-              "Jake Crandall"
+              "Yes"
             ]
           }
         }
@@ -211,11 +187,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo1.jpg/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo1.jpg/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo1.jpg/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo1.jpg/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -232,14 +208,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo1.jpg/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo1.jpg/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo.jpg/canvas/3",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo.jpg/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -258,18 +234,6 @@
           "value": {
             "en": [
               "Montgomery, AL, USA"
-            ]
-          }
-        },
-        {
-          "label": {
-            "en": [
-              "Photographer"
-            ]
-          },
-          "value": {
-            "en": [
-              "Jake Crandall"
             ]
           }
         }
@@ -292,11 +256,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo.jpg/canvas/3/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo.jpg/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo.jpg/canvas/3/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo.jpg/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -313,7 +277,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0156_areyoulistening_oo.jpg/canvas/3"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0156_areyoulistening_oo.jpg/canvas/3"
             }
           ]
         }

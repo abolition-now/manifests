@@ -3,23 +3,28 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome.json",
   "type": "Manifest",
   "label": {
     "en": [
-      "Calls From Home III"
+      "Calls From Home VII"
     ]
   },
   "metadata": [
     {
       "label": {
         "en": [
-          "Artist"
+          "Visual Motifs"
         ]
       },
       "value": {
         "en": [
-          "Sylvia Ryerson"
+          "Water",
+          "Eyes",
+          "Hands",
+          "Prisons",
+          "Incarcerated People",
+          "Inside Prisons"
         ]
       }
     },
@@ -31,43 +36,34 @@
       },
       "value": {
         "en": [
-          "Community"
+          "Abolition",
+          "Community",
+          "Hope"
         ]
       }
     },
     {
       "label": {
         "en": [
-          "Visual Motifs"
+          "Artist"
         ]
       },
       "value": {
         "en": [
-          "Rainbows"
+          "Sylvia Ryerson",
+          "PETER \u201cPitt\u201d KAMAU MUKURIA"
         ]
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
-      "id": "https://abolition-now.github.io/an/works/calls-from-home-iii",
+      "id": "https://abolition-now.github.io/an/works/calls-from-home-vii",
       "type": "Text",
       "label": {
         "en": [
-          "Calls From Home III"
+          "Calls From Home VII"
         ]
       },
       "format": "text/html",
@@ -78,7 +74,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo.png/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo.png/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -91,12 +87,31 @@
         {
           "label": {
             "en": [
-              "Missing metadata?"
+              "Visual Motifs"
             ]
           },
           "value": {
             "en": [
-              "Yes"
+              "Water",
+              "Eyes",
+              "Hands",
+              "Prisons",
+              "Incarcerated People",
+              "Inside Prisons"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition",
+              "Community",
+              "Hope"
             ]
           }
         }
@@ -119,11 +134,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo.png/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo.png/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo.png/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo.png/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -140,14 +155,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo.png/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo.png/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo1.png/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo1.png/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -160,24 +175,25 @@
         {
           "label": {
             "en": [
-              "Subject"
+              "Visual Motifs"
             ]
           },
           "value": {
             "en": [
-              "Community"
+              "Eyes"
             ]
           }
         },
         {
           "label": {
             "en": [
-              "Visual Motifs"
+              "Subject"
             ]
           },
           "value": {
             "en": [
-              "Rainbows"
+              "Community",
+              "Abolition"
             ]
           }
         }
@@ -200,11 +216,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo1.png/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo1.png/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo1.png/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo1.png/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -221,14 +237,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo1.png/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo1.png/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo2.png/canvas/3",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo2.png/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -269,11 +285,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo2.png/canvas/3/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo2.png/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo2.png/canvas/3/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo2.png/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -290,7 +306,334 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0128_callsfromhome_oo2.png/canvas/3"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo2.png/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo3.jpg/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1080,
+      "width": 1920,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Eyes"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo3.jpg/full/480,270/0/default.jpg",
+          "type": "Image",
+          "height": 270,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo3.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo3.jpg/canvas/4/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo3.jpg/canvas/4/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo3.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1080,
+                "width": 1920,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo3.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo3.jpg/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo4.jpg/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1080,
+      "width": 1920,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Hands"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo4.jpg/full/480,270/0/default.jpg",
+          "type": "Image",
+          "height": 270,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo4.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo4.jpg/canvas/5/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo4.jpg/canvas/5/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo4.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1080,
+                "width": 1920,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo4.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo4.jpg/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo5.jpg/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1080,
+      "width": 1920,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition",
+              "Hope"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Prisons"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo5.jpg/full/480,270/0/default.jpg",
+          "type": "Image",
+          "height": 270,
+          "width": 480,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo5.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo5.jpg/canvas/6/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo5.jpg/canvas/6/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo5.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1080,
+                "width": 1920,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_callsfromhome_oo5.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_callsfromhome_oo5.jpg/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_0128_callsfromhome_oo6.png/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1428,
+      "width": 2956,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Prisons",
+              "Incarcerated People",
+              "Inside Prisons"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_0128_callsfromhome_oo6.png/full/739,357/0/default.jpg",
+          "type": "Image",
+          "height": 357,
+          "width": 739,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_0128_callsfromhome_oo6.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_0128_callsfromhome_oo6.png/canvas/7/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_0128_callsfromhome_oo6.png/canvas/7/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_0128_callsfromhome_oo6.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1428,
+                "width": 2956,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_0128_callsfromhome_oo6.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_0128_callsfromhome_oo6.png/canvas/7"
             }
           ]
         }

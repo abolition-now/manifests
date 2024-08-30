@@ -1,0 +1,126 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0214_septimusapokaluptein_oo.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Prisons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Jesse Krimes"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/untitled",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Untitled"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0214_septimusapokaluptein_oo1.jpg/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 1770,
+      "width": 1180,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Prisons"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0214_septimusapokaluptein_oo1.jpg/full/295,442/0/default.jpg",
+          "type": "Image",
+          "height": 442,
+          "width": 295,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0214_septimusapokaluptein_oo1.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0214_septimusapokaluptein_oo1.jpg/canvas/2/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0214_septimusapokaluptein_oo1.jpg/canvas/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0214_septimusapokaluptein_oo1.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1770,
+                "width": 1180,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0214_septimusapokaluptein_oo1.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0214_septimusapokaluptein_oo1.jpg/canvas/2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

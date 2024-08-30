@@ -1,0 +1,189 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_0129_callsfromhomeposter.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Calls From Home Poster"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Abolition",
+          "Freedom",
+          "Community",
+          "Freedom"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "Posters"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Bars",
+          "Chains",
+          "Flora",
+          "Handcuffs",
+          "Hands"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Sylvia Ryerson",
+          "PETER \u201cPitt\u201d KAMAU MUKURIA"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/calls-from-home-poster",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Calls From Home Poster"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_0129_callsfromhomeposter_oo.jpg/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 1080,
+      "width": 826,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition",
+              "Freedom",
+              "Community",
+              "Freedom"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Posters"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Bars",
+              "Chains",
+              "Flora",
+              "Handcuffs",
+              "Hands"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_0129_callsfromhomeposter_oo.jpg/full/413,540/0/default.jpg",
+          "type": "Image",
+          "height": 540,
+          "width": 413,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_0129_callsfromhomeposter_oo.jpg",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_0129_callsfromhomeposter_oo.jpg/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_0129_callsfromhomeposter_oo.jpg/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_0129_callsfromhomeposter_oo.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 1080,
+                "width": 826,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0128_0129_callsfromhomeposter_oo.jpg",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0128_0129_callsfromhomeposter_oo.jpg/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

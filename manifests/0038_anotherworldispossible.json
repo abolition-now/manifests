@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -52,18 +52,6 @@
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
@@ -82,7 +70,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.png/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.png/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -125,11 +113,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.png/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.png/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.png/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.png/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -146,14 +134,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.png/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.png/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.mp4/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.mp4/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -211,11 +199,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.mp4/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.mp4/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.mp4/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.mp4/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -226,14 +214,14 @@
                 "duration": 169.13,
                 "format": "video/mp4"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_oo.mp4/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_oo.mp4/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.png/canvas/3",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.png/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -287,11 +275,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.png/canvas/3/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.png/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.png/canvas/3/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.png/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -308,14 +296,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.png/canvas/3"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.png/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.jpeg/canvas/4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -356,11 +344,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.jpeg/canvas/4/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -377,7 +365,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible_ru.jpeg/canvas/4"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0038_anotherworldispossible_ru.jpeg/canvas/4"
             }
           ]
         }

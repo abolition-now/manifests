@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -49,18 +49,6 @@
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
@@ -79,7 +67,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.jpg/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -133,11 +121,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.jpg/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -154,14 +142,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.jpg/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.mp4/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.mp4/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -216,11 +204,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.mp4/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.mp4/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.mp4/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.mp4/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -231,14 +219,14 @@
                 "duration": 1011.35,
                 "format": "video/mp4"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo.mp4/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo.mp4/canvas/2"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo1.png/canvas/3",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo1.png/canvas/3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -292,11 +280,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo1.png/canvas/3/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo1.png/canvas/3/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo1.png/canvas/3/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo1.png/canvas/3/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -313,14 +301,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo1.png/canvas/3"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo1.png/canvas/3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo2.jpg/canvas/4",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo2.jpg/canvas/4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -374,11 +362,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo2.jpg/canvas/4/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo2.jpg/canvas/4/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo2.jpg/canvas/4/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo2.jpg/canvas/4/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -395,14 +383,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_oo2.jpg/canvas/4"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_oo2.jpg/canvas/4"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru.png/canvas/5",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru.png/canvas/5",
       "type": "Canvas",
       "label": {
         "en": [
@@ -457,11 +445,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru.png/canvas/5/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru.png/canvas/5/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru.png/canvas/5/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru.png/canvas/5/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -478,14 +466,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru.png/canvas/5"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru.png/canvas/5"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru1.jpg/canvas/6",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru1.jpg/canvas/6",
       "type": "Canvas",
       "label": {
         "en": [
@@ -539,11 +527,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru1.jpg/canvas/6/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru1.jpg/canvas/6/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru1.jpg/canvas/6/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru1.jpg/canvas/6/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -560,14 +548,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru1.jpg/canvas/6"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru1.jpg/canvas/6"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru2.jpg/canvas/7",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru2.jpg/canvas/7",
       "type": "Canvas",
       "label": {
         "en": [
@@ -621,11 +609,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru2.jpg/canvas/7/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru2.jpg/canvas/7/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru2.jpg/canvas/7/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru2.jpg/canvas/7/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -642,14 +630,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru2.jpg/canvas/7"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru2.jpg/canvas/7"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru3.jpg/canvas/8",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru3.jpg/canvas/8",
       "type": "Canvas",
       "label": {
         "en": [
@@ -703,11 +691,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru3.jpg/canvas/8/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru3.jpg/canvas/8/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru3.jpg/canvas/8/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru3.jpg/canvas/8/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -724,14 +712,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru3.jpg/canvas/8"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru3.jpg/canvas/8"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru4.png/canvas/9",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru4.png/canvas/9",
       "type": "Canvas",
       "label": {
         "en": [
@@ -785,11 +773,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru4.png/canvas/9/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru4.png/canvas/9/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru4.png/canvas/9/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru4.png/canvas/9/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -806,14 +794,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru4.png/canvas/9"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru4.png/canvas/9"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru5.png/canvas/10",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru5.png/canvas/10",
       "type": "Canvas",
       "label": {
         "en": [
@@ -867,11 +855,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru5.png/canvas/10/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru5.png/canvas/10/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru5.png/canvas/10/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru5.png/canvas/10/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -888,7 +876,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety_ru5.png/canvas/10"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0063_wefindsafety_ru5.png/canvas/10"
             }
           ]
         }

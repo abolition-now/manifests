@@ -1,0 +1,186 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_whatisleft.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "What is Left?"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Abolition",
+          "Art from the Inside",
+          "Punishment"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2016"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Bars",
+          "Flags",
+          "Incarcerated People",
+          "Inside Prisons",
+          "Skulls/Skeletons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "PETER \u201cPitt\u201d KAMAU MUKURIA"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/what-is-left",
+      "type": "Text",
+      "label": {
+        "en": [
+          "What is Left?"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_whatisleft_oo.png/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original Image"
+        ]
+      },
+      "height": 787,
+      "width": 625,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition",
+              "Art from the Inside",
+              "Punishment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "2016"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Bars",
+              "Flags",
+              "Incarcerated People",
+              "Inside Prisons",
+              "Skulls/Skeletons"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_whatisleft_oo.png/full/312,393/0/default.jpg",
+          "type": "Image",
+          "height": 393,
+          "width": 312,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_whatisleft_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_whatisleft_oo.png/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_whatisleft_oo.png/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_whatisleft_oo.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 787,
+                "width": 625,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0129_whatisleft_oo.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0129_whatisleft_oo.png/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

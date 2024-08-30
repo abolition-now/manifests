@@ -1,0 +1,636 @@
+{
+  "@context": [
+    "http://iiif.io/api/extension/navplace/context.json",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Justcia Para las Mujeres Inmigrantes VIII"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Medium"
+        ]
+      },
+      "value": {
+        "en": [
+          "Murals"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Visual Motifs"
+        ]
+      },
+      "value": {
+        "en": [
+          "Butterflies",
+          "Protesters"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Connie Fiorella Fitzpatrick",
+          "Dave Lowenstein"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "homepage": [
+    {
+      "id": "https://abolition-now.github.io/an/works/justcia-para-las-mujeres-inmigrantes-viii",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Justcia Para las Mujeres Inmigrantes VIII"
+        ]
+      },
+      "format": "text/html",
+      "language": [
+        "en"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 889,
+      "width": 590,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Visual Motifs"
+            ]
+          },
+          "value": {
+            "en": [
+              "Butterflies",
+              "Protesters"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/full/295,444/0/default.jpg",
+          "type": "Image",
+          "height": 444,
+          "width": 295,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/canvas/1/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 889,
+                "width": 590,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo.png/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 892,
+      "width": 669,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/full/334,446/0/default.jpg",
+          "type": "Image",
+          "height": 446,
+          "width": 334,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/canvas/2/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/canvas/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 892,
+                "width": 669,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo1.png/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 895,
+      "width": 598,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/full/299,447/0/default.jpg",
+          "type": "Image",
+          "height": 447,
+          "width": 299,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/canvas/3/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/canvas/3/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 895,
+                "width": 598,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo2.png/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 893,
+      "width": 596,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/full/298,446/0/default.jpg",
+          "type": "Image",
+          "height": 446,
+          "width": 298,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/canvas/4/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/canvas/4/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 893,
+                "width": 596,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo3.png/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 897,
+      "width": 593,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/full/296,448/0/default.jpg",
+          "type": "Image",
+          "height": 448,
+          "width": 296,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/canvas/5/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/canvas/5/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 897,
+                "width": 593,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo4.png/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 895,
+      "width": 1189,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/full/594,447/0/default.jpg",
+          "type": "Image",
+          "height": 447,
+          "width": 594,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/canvas/6/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/canvas/6/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 895,
+                "width": 1189,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo5.png/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 885,
+      "width": 1190,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/full/595,442/0/default.jpg",
+          "type": "Image",
+          "height": 442,
+          "width": 595,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/canvas/7/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/canvas/7/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 885,
+                "width": 1190,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo6.png/canvas/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Original"
+        ]
+      },
+      "height": 889,
+      "width": 1342,
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Medium"
+            ]
+          },
+          "value": {
+            "en": [
+              "Murals"
+            ]
+          }
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/full/671,444/0/default.jpg",
+          "type": "Image",
+          "height": 444,
+          "width": 671,
+          "service": [
+            {
+              "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png",
+              "type": "ImageService3",
+              "profile": "level2"
+            }
+          ],
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/canvas/8/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/canvas/8/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/full/max/0/default.jpg",
+                "type": "Image",
+                "height": 889,
+                "width": 1342,
+                "service": [
+                  {
+                    "id": "https://strob6zro3bzklrulaqu2545sy0odbvz.lambda-url.us-east-2.on.aws/iiif/3/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0291_0292_justiciaparalasmujeresinmigrantes_oo7.png/canvas/8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

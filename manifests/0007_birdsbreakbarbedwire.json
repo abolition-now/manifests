@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -20,19 +20,7 @@
       "value": {
         "en": [
           "Birds",
-          "Birds"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Artist"
-        ]
-      },
-      "value": {
-        "en": [
-          "Unknown"
+          "Prisons"
         ]
       }
     },
@@ -48,20 +36,20 @@
           "Community"
         ]
       }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Unknown"
+        ]
+      }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "homepage": [
     {
@@ -80,7 +68,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_oo.jpg/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -99,7 +87,20 @@
           "value": {
             "en": [
               "Birds",
-              "Birds"
+              "Prisons"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Abolition",
+              "Community"
             ]
           }
         }
@@ -122,11 +123,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_oo.jpg/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -143,14 +144,14 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_oo.jpg/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_oo.jpg/canvas/1"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_ru.png/canvas/2",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_ru.png/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -204,11 +205,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_ru.png/canvas/2/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_ru.png/canvas/2/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_ru.png/canvas/2/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_ru.png/canvas/2/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -225,7 +226,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_birdsbreakbarbedwire_ru.png/canvas/2"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_birdsbreakbarbedwire_ru.png/canvas/2"
             }
           ]
         }

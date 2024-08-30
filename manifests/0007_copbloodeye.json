@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye.json",
+  "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_copbloodeye.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -39,6 +39,18 @@
     {
       "label": {
         "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Militarization"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
           "Artist"
         ]
       },
@@ -49,41 +61,10 @@
       }
     }
   ],
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution and Use"
-      ]
-    },
-    "value": {
-      "en": [
-        "<span>This item is protected by copyright and the rights remain with the creator. If you are the creator, and you have questions or concerns about the use of your work, please <a href=\"mailto:abolitionimages@gmail.com\">Contact us</a></span>."
-      ]
-    }
-  },
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
-    "features": [
-      {
-        "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/notdereferenceable/feature/0",
-        "type": "Feature",
-        "properties": {
-          "label": {
-            "en": [
-              "Seen -- Santiago, Chile"
-            ]
-          }
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -70.6693,
-            -33.4489
-          ]
-        }
-      }
-    ]
+    "features": []
   },
   "homepage": [
     {
@@ -102,7 +83,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye_oo.jpg/canvas/1",
+      "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_copbloodeye_oo.jpg/canvas/1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -136,6 +117,18 @@
               "Santiago, Chile"
             ]
           }
+        },
+        {
+          "label": {
+            "en": [
+              "Subject"
+            ]
+          },
+          "value": {
+            "en": [
+              "Militarization"
+            ]
+          }
         }
       ],
       "thumbnail": [
@@ -156,11 +149,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye_oo.jpg/canvas/1/annotation/1/page/1",
+          "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_copbloodeye_oo.jpg/canvas/1/annotation/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye_oo.jpg/canvas/1/annotation/1",
+              "id": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_copbloodeye_oo.jpg/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -177,7 +170,7 @@
                 ],
                 "format": "image/jpeg"
               },
-              "target": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0007_copbloodeye_oo.jpg/canvas/1"
+              "target": "https://aboltion-now-manifests.s3.us-east-2.amazonaws.com/0007_copbloodeye_oo.jpg/canvas/1"
             }
           ]
         }
