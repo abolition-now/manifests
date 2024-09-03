@@ -223,6 +223,31 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://abolition-now.github.io/manifests/manifests/0004_wechargegenocide_oo.mp4/canvas/2/caption/annotation/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://abolition-now.github.io/manifests/manifests/0004_wechargegenocide_oo.mp4/canvas/caption/2",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://abolition-now.github.io/manifests/captions/0004_wechargegenocide_oo_base.vtt",
+                "type": "Text",
+                "language": "en",
+                "format": "text/plain",
+                "label": {
+                  "en": [
+                    "Captions in English"
+                  ]
+                }
+              },
+              "target": "https://abolition-now.github.io/manifests/manifests/0004_wechargegenocide_oo.mp4/canvas/caption/2"
+            }
+          ]
+        }
       ]
     }
   ]
