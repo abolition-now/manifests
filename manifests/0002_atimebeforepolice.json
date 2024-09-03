@@ -136,8 +136,8 @@
           "Interview"
         ]
       },
-      "height": 360,
-      "width": 480,
+      "height": 1080,
+      "width": 1920,
       "duration": 399.42,
       "metadata": [
         {
@@ -183,8 +183,8 @@
               "body": {
                 "id": "https://digital.lib.utk.edu/static/0002_atimebeforepolice_oo.mp4",
                 "type": "Video",
-                "height": 360,
-                "width": 480,
+                "height": 1080,
+                "width": 1920,
                 "duration": 399.42,
                 "format": "video/mp4"
               },

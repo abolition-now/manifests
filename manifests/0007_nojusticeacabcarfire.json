@@ -75,7 +75,26 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+      {
+        "id": "https://abolition-now.github.io/manifests/manifests/notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "No Justice No Peace Abolish Police, ACAB -- Vienna, Austria"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.37374877929688,
+            48.201794985897344
+          ]
+        }
+      }
+    ]
   },
   "homepage": [
     {

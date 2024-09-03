@@ -158,8 +158,8 @@
           "Interview"
         ]
       },
-      "height": 360,
-      "width": 480,
+      "height": 1080,
+      "width": 1920,
       "duration": 529.39,
       "metadata": [
         {
@@ -217,8 +217,8 @@
               "body": {
                 "id": "https://digital.lib.utk.edu/static/0005_nooneentersviolence_oo.mp4",
                 "type": "Video",
-                "height": 360,
-                "width": 480,
+                "height": 1080,
+                "width": 1920,
                 "duration": 529.39,
                 "format": "video/mp4"
               },

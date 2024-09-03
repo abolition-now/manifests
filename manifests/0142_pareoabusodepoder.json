@@ -75,7 +75,26 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+      {
+        "id": "https://abolition-now.github.io/manifests/manifests/notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "#Pare O Abuso De Poder  -- S\u00e3o Paulo, Brazil"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.63009643554688,
+            -23.54762199510273
+          ]
+        }
+      }
+    ]
   },
   "homepage": [
     {

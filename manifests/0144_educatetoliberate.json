@@ -85,7 +85,26 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+      {
+        "id": "https://abolition-now.github.io/manifests/manifests/notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Whakaako Kia Whakaora Educate to Liberate 6 (Reuse) -- Auckland, Aotearoa/New Zealand"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            174.77188110351565,
+            -36.86643755175846
+          ]
+        }
+      }
+    ]
   },
   "homepage": [
     {

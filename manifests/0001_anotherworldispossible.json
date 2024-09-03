@@ -180,8 +180,8 @@
           "Interview"
         ]
       },
-      "height": 360,
-      "width": 480,
+      "height": 1080,
+      "width": 1920,
       "duration": 636.16,
       "metadata": [
         {
@@ -251,8 +251,8 @@
               "body": {
                 "id": "https://digital.lib.utk.edu/static/0001_anotherworldispossible_oo.mp4",
                 "type": "Video",
-                "height": 360,
-                "width": 480,
+                "height": 1080,
+                "width": 1920,
                 "duration": 636.16,
                 "format": "video/mp4"
               },

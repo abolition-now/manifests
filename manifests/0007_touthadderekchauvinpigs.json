@@ -63,7 +63,26 @@
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "navPlace": {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+      {
+        "id": "https://abolition-now.github.io/manifests/manifests/notdereferenceable/feature/0",
+        "type": "Feature",
+        "properties": {
+          "label": {
+            "en": [
+              "Tou Thad and Derek Chauvin as Pigs -- Edinburgh, Scotland"
+            ]
+          }
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -3.197021484375,
+            55.95073768027848
+          ]
+        }
+      }
+    ]
   },
   "homepage": [
     {
