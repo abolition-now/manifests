@@ -199,7 +199,7 @@
                 "id": "https://abolition-now.github.io/manifests/captions/0005_0074_disabilityjustice_oo_base.vtt",
                 "type": "Text",
                 "language": "en",
-                "format": "text/plain",
+                "format": "text/vtt",
                 "label": {
                   "en": [
                     "Captions in English"

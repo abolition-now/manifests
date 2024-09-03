@@ -206,7 +206,7 @@
                 "id": "https://abolition-now.github.io/manifests/captions/0002_atimebeforepolice_oo_base.vtt",
                 "type": "Text",
                 "language": "en",
-                "format": "text/plain",
+                "format": "text/vtt",
                 "label": {
                   "en": [
                     "Captions in English"
