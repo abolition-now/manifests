@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/collections/interviews-with-the-artists.json",
+  "id": "https://abolition-now.github.io/manifests/collections/interviews-with-the-artists.json",
   "type": "Collection",
   "label": {
     "en": [
@@ -14,7 +14,7 @@
   },
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_anotherworldispossible.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0001_anotherworldispossible.json",
       "label": {
         "en": [
           "Another World Is Possible"
@@ -54,7 +54,7 @@
   ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_minneapolice.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0001_minneapolice.json",
       "label": {
         "en": [
           "Minneapolice"
@@ -94,7 +94,7 @@
   ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0001_TrayvonMartin.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0001_TrayvonMartin.json",
       "label": {
         "en": [
           "Trayvon Martin - Black Mothers' Sons"
@@ -134,7 +134,7 @@
   ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0002_atimebeforepolice.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0002_atimebeforepolice.json",
       "label": {
         "en": [
           "There Was A Time Before Police And There Will Be A Time After"
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_abolitionnow.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_abolitionnow.json",
       "label": {
         "en": [
           "Abolition Now"
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_defendourcommunities.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_defendourcommunities.json",
       "label": {
         "en": [
           "Defend Our Communities, Defund Police"
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_hopeisadiscipline.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_hopeisadiscipline.json",
       "label": {
         "en": [
           "Hope Is A Discipline"
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_reparationsnow.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_reparationsnow.json",
       "label": {
         "en": [
           "Reparations Now, Reparations Won!"
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_soundsofabolition.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_soundsofabolition.json",
       "label": {
         "en": [
           "Sounds of Abolition"
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0004_wechargegenocide.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0004_wechargegenocide.json",
       "label": {
         "en": [
           "We Charge Genocide"
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_0074_disabilityjustice.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_0074_disabilityjustice.json",
       "label": {
         "en": [
           "Disability Justice"
@@ -454,7 +454,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_mariamekaba.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_mariamekaba.json",
       "label": {
         "en": [
           "Mariame Kaba"
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_marshapjohnson.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_marshapjohnson.json",
       "label": {
         "en": [
           "Marsh P. Johnson"
@@ -534,7 +534,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_nooneentersviolence.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_nooneentersviolence.json",
       "label": {
         "en": [
           "No One Enters Violence"
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_seemyneighbors.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_seemyneighbors.json",
       "label": {
         "en": [
           "I See My Neighbors"
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0005_southerntransresistance.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0005_southerntransresistance.json",
       "label": {
         "en": [
           "Art of Trans Liberation"
@@ -654,7 +654,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0038_anotherworldispossible.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0038_anotherworldispossible.json",
       "label": {
         "en": [
           "Another World is Possible"
@@ -694,7 +694,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_inourfreefuture.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_inourfreefuture.json",
       "label": {
         "en": [
           "In Our Free Future"
@@ -734,7 +734,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_pronk.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_pronk.json",
       "label": {
         "en": [
           "Pronk"
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_weareuniversal.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_weareuniversal.json",
       "label": {
         "en": [
           "We Are Universal"
@@ -814,7 +814,7 @@
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/abolition-now/manifests/main/manifests/0063_wefindsafety.json",
+      "id": "https://abolition-now.github.io/manifests/manifests/0063_wefindsafety.json",
       "label": {
         "en": [
           "We Find Safety"
